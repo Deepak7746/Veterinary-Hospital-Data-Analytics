@@ -1,0 +1,1001 @@
+﻿Patient_ID,Animal_Type,Breed,Age,Gender,Visit_Date,Disease,Treatment,Doctor,Treatment_Cost,Treatment_Days,Outcome,Follow_Up,Location
+VET0001,Dog,Pug,8,Male,2025-01-21,Fever,Medication,Dr. Rahul,900,4,Recovered,No,Madurai
+VET0002,Cow,Holstein Friesian,12,Female,2026-01-21,Skin Infection,Medication,Dr. Rahul,2700,7,Recovered,No,Chennai
+VET0003,Dog,Golden Retriever,12,Female,2025-07-09,Digestive Issues,Medication,Dr. Arun,2100,8,Recovered,No,Coimbatore
+VET0004,Cat,Indian Shorthair,2,Female,2026-08-24,Injury,Surgery,Dr. Meena,11900,14,Recovered,Yes,Coimbatore
+VET0005,Cow,Sahiwal,15,Male,2025-07-25,Injury,Surgery,Dr. Priya,6600,8,Recovered,No,Chennai
+VET0006,Dog,German Shepherd,2,Female,2025-09-27,Parasite Infection,Deworming,Dr. Rahul,1500,4,Recovered,No,Coimbatore
+VET0007,Goat,Jamunapari,13,Male,2025-06-06,Vaccination,Vaccination,Dr. Arun,500,1,Recovered,No,Coimbatore
+VET0008,Dog,Golden Retriever,8,Male,2026-02-23,Fever,Medication,Dr. Arun,1000,4,Recovered,No,Tiruppur
+VET0009,Goat,Malabari,16,Male,2026-02-11,Digestive Issues,Medication,Dr. Karthik,2700,7,Improving,Yes,Chennai
+VET0010,Dog,Indian Spitz,5,Female,2026-05-18,Parasite Infection,Deworming,Dr. Priya,1400,3,Recovered,No,Chennai
+VET0011,Dog,Labrador,4,Female,2026-04-30,Digestive Issues,Medication,Dr. Rahul,2600,7,Recovered,No,Coimbatore
+VET0012,Dog,Indian Spitz,10,Male,2026-07-28,Fracture,Surgery,Dr. Karthik,9600,26,Recovered,No,Coimbatore
+VET0013,Dog,Labrador,1,Male,2026-01-12,Digestive Issues,Medication,Dr. Karthik,2500,8,Recovered,No,Coimbatore
+VET0014,Cat,Persian,1,Male,2025-08-22,Injury,Surgery,Dr. Arun,4100,19,Recovered,No,Coimbatore
+VET0015,Dog,German Shepherd,14,Male,2026-01-21,Vaccination,Vaccination,Dr. Arun,1600,1,Recovered,Yes,Tiruppur
+VET0016,Dog,Pug,1,Male,2025-05-10,Digestive Issues,Medication,Dr. Meena,2200,6,Recovered,No,Coimbatore
+VET0017,Dog,Labrador,8,Male,2025-07-17,Respiratory Infection,Medication,Dr. Meena,3700,11,Recovered,No,Chennai
+VET0018,Cow,Gir,4,Male,2025-12-12,Dental Problem,Dental Care,Dr. Arun,3900,4,Recovered,Yes,Madurai
+VET0019,Dog,German Shepherd,11,Female,2026-04-18,Parasite Infection,Deworming,Dr. Priya,800,2,Recovered,No,Tiruppur
+VET0020,Cat,Persian,14,Female,2026-03-29,Fever,Medication,Dr. Karthik,1800,4,Recovered,No,Madurai
+VET0021,Rabbit,Angora,1,Female,2026-08-10,Digestive Issues,Medication,Dr. Meena,2800,6,Critical,Yes,Chennai
+VET0022,Dog,Labrador,13,Female,2025-12-04,Ear Infection,Medication,Dr. Meena,2900,9,Recovered,No,Madurai
+VET0023,Dog,Pug,8,Female,2026-01-27,Fever,Medication,Dr. Meena,1900,4,Recovered,No,Chennai
+VET0024,Cat,Indian Shorthair,8,Male,2025-01-27,Injury,Surgery,Dr. Arun,3700,9,Recovered,No,Coimbatore
+VET0025,Cow,Gir,17,Female,2025-01-17,Dental Problem,Dental Care,Dr. Rahul,3200,7,Follow-up Required,Yes,Tiruppur
+VET0026,Cow,Jersey,17,Female,2025-06-30,Vaccination,Vaccination,Dr. Rahul,1100,1,Recovered,Yes,Coimbatore
+VET0027,Goat,Malabari,18,Male,2026-07-20,Injury,Surgery,Dr. Priya,4000,7,Recovered,Yes,Coimbatore
+VET0028,Dog,German Shepherd,1,Male,2025-09-03,Respiratory Infection,Medication,Dr. Karthik,3300,6,Improving,Yes,Coimbatore
+VET0029,Cat,Bengal,9,Female,2025-01-20,Injury,Surgery,Dr. Meena,5800,12,Improving,Yes,Tiruppur
+VET0030,Dog,German Shepherd,7,Male,2025-02-20,Skin Infection,Medication,Dr. Priya,3100,5,Recovered,No,Tiruppur
+VET0031,Dog,German Shepherd,6,Male,2026-03-20,Parasite Infection,Deworming,Dr. Meena,1300,1,Improving,Yes,Coimbatore
+VET0032,Cat,Bengal,4,Female,2025-02-16,Parasite Infection,Deworming,Dr. Priya,1500,4,Recovered,No,Coimbatore
+VET0033,Goat,Black Bengal,5,Female,2025-04-27,Injury,Surgery,Dr. Arun,9400,11,Recovered,No,Coimbatore
+VET0034,Dog,German Shepherd,6,Female,2026-08-24,Fever,Medication,Dr. Rahul,1200,6,Recovered,No,Madurai
+VET0035,Dog,Beagle,3,Male,2025-03-27,Dental Problem,Dental Care,Dr. Arun,4700,6,Recovered,Yes,Coimbatore
+VET0036,Bird,Parrot,10,Female,2026-03-08,Injury,Surgery,Dr. Rahul,9900,11,Recovered,No,Coimbatore
+VET0037,Cat,Indian Shorthair,4,Male,2026-03-18,Fracture,Surgery,Dr. Priya,16800,15,Recovered,No,Coimbatore
+VET0038,Cat,Maine Coon,12,Female,2026-01-15,Parasite Infection,Deworming,Dr. Karthik,2200,1,Improving,Yes,Tiruppur
+VET0039,Dog,Labrador,11,Female,2025-10-12,Ear Infection,Medication,Dr. Karthik,1500,7,Recovered,Yes,Madurai
+VET0040,Dog,German Shepherd,10,Female,2026-08-25,Digestive Issues,Medication,Dr. Priya,2200,4,Recovered,No,Madurai
+VET0041,Cat,Indian Shorthair,9,Male,2026-01-29,Skin Infection,Medication,Dr. Karthik,3300,4,Recovered,No,Coimbatore
+VET0042,Dog,Indian Spitz,12,Male,2026-06-09,Dental Problem,Dental Care,Dr. Arun,4300,2,Recovered,No,Chennai
+VET0043,Goat,Jamunapari,19,Male,2026-01-31,Fever,Medication,Dr. Arun,1200,2,Improving,Yes,Coimbatore
+VET0044,Bird,Lovebird,10,Male,2025-05-24,Injury,Surgery,Dr. Karthik,8400,9,Recovered,No,Coimbatore
+VET0045,Rabbit,Angora,5,Female,2025-07-05,Parasite Infection,Deworming,Dr. Karthik,1600,2,Recovered,No,Madurai
+VET0046,Bird,Parrot,1,Male,2025-08-18,Respiratory Infection,Medication,Dr. Priya,3300,10,Improving,Yes,Coimbatore
+VET0047,Rabbit,Lop,5,Female,2025-12-05,Skin Infection,Medication,Dr. Arun,3100,8,Recovered,No,Chennai
+VET0048,Dog,Beagle,13,Female,2025-07-01,Skin Infection,Medication,Dr. Karthik,1600,6,Recovered,No,Coimbatore
+VET0049,Dog,Indian Spitz,12,Female,2025-12-27,Skin Infection,Medication,Dr. Arun,3400,4,Recovered,No,Coimbatore
+VET0050,Dog,Labrador,6,Female,2026-07-10,Fever,Medication,Dr. Rahul,1400,6,Recovered,No,Tiruppur
+VET0051,Dog,Golden Retriever,9,Female,2025-02-16,Respiratory Infection,Medication,Dr. Rahul,3000,5,Recovered,No,Madurai
+VET0052,Dog,Labrador,10,Female,2025-12-24,Vaccination,Vaccination,Dr. Meena,1400,1,Recovered,No,Madurai
+VET0053,Dog,Beagle,12,Male,2025-02-10,Dental Problem,Dental Care,Dr. Arun,6800,4,Recovered,No,Coimbatore
+VET0054,Cat,Indian Shorthair,3,Male,2026-01-25,Skin Infection,Medication,Dr. Arun,3100,6,Improving,Yes,Coimbatore
+VET0055,Rabbit,Lop,5,Male,2026-01-09,Dental Problem,Dental Care,Dr. Arun,5100,3,Follow-up Required,Yes,Coimbatore
+VET0056,Cow,Jersey,17,Male,2025-04-15,Vaccination,Vaccination,Dr. Meena,1600,1,Recovered,Yes,Salem
+VET0057,Bird,Cockatiel,7,Male,2026-07-19,Vaccination,Vaccination,Dr. Arun,1100,1,Recovered,No,Coimbatore
+VET0058,Bird,Parrot,1,Male,2026-05-03,Fever,Medication,Dr. Priya,800,5,Recovered,Yes,Chennai
+VET0059,Cow,Gir,1,Female,2025-08-24,Fever,Medication,Dr. Rahul,1100,4,Recovered,Yes,Madurai
+VET0060,Cow,Gir,2,Female,2025-11-02,Fracture,Surgery,Dr. Priya,13200,32,Recovered,No,Coimbatore
+VET0061,Cat,Bengal,10,Male,2025-03-22,Fever,Medication,Dr. Priya,900,6,Recovered,No,Salem
+VET0062,Dog,Pug,5,Female,2025-07-24,Vaccination,Vaccination,Dr. Arun,600,1,Recovered,No,Chennai
+VET0063,Cat,Maine Coon,8,Female,2025-12-26,Skin Infection,Medication,Dr. Karthik,2300,4,Critical,Yes,Chennai
+VET0064,Bird,Parrot,3,Male,2025-01-05,Fever,Medication,Dr. Arun,1400,3,Recovered,Yes,Chennai
+VET0065,Dog,Indian Spitz,14,Female,2025-03-14,Digestive Issues,Medication,Dr. Karthik,1900,3,Recovered,No,Tiruppur
+VET0066,Dog,German Shepherd,8,Male,2025-09-10,Fracture,Surgery,Dr. Priya,12800,29,Recovered,No,Salem
+VET0067,Cat,Siamese,14,Male,2025-11-08,Respiratory Infection,Medication,Dr. Karthik,2600,11,Recovered,No,Chennai
+VET0068,Dog,German Shepherd,3,Male,2025-07-11,Digestive Issues,Medication,Dr. Arun,2800,7,Recovered,No,Coimbatore
+VET0069,Dog,Beagle,13,Female,2025-01-25,Fever,Medication,Dr. Priya,800,2,Recovered,Yes,Chennai
+VET0070,Cat,Bengal,9,Male,2026-06-02,Skin Infection,Medication,Dr. Karthik,2100,5,Recovered,No,Tiruppur
+VET0071,Cat,Persian,5,Female,2026-08-05,Skin Infection,Medication,Dr. Arun,3000,7,Improving,Yes,Coimbatore
+VET0072,Cat,Indian Shorthair,15,Female,2025-11-18,Vaccination,Vaccination,Dr. Arun,900,1,Recovered,Yes,Chennai
+VET0073,Cow,Holstein Friesian,15,Male,2026-01-27,Vaccination,Vaccination,Dr. Priya,1500,1,Recovered,No,Coimbatore
+VET0074,Cat,Persian,12,Male,2025-01-01,Respiratory Infection,Medication,Dr. Karthik,3900,10,Recovered,No,Tiruppur
+VET0075,Dog,Golden Retriever,2,Female,2025-01-10,Skin Infection,Medication,Dr. Priya,1700,10,Recovered,No,Coimbatore
+VET0076,Dog,Labrador,11,Male,2026-07-04,Respiratory Infection,Medication,Dr. Meena,3800,7,Recovered,No,Tiruppur
+VET0077,Dog,Golden Retriever,12,Male,2026-07-01,Vaccination,Vaccination,Dr. Rahul,1000,1,Recovered,Yes,Coimbatore
+VET0078,Goat,Jamunapari,3,Male,2025-06-14,Parasite Infection,Deworming,Dr. Meena,700,3,Recovered,No,Coimbatore
+VET0079,Cat,Siamese,7,Female,2026-06-10,Parasite Infection,Deworming,Dr. Arun,1400,3,Recovered,No,Coimbatore
+VET0080,Rabbit,New Zealand White,5,Female,2025-04-14,Dental Problem,Dental Care,Dr. Karthik,6000,4,Recovered,No,Coimbatore
+VET0081,Dog,Pug,14,Male,2026-02-24,Injury,Surgery,Dr. Rahul,5700,10,Improving,Yes,Coimbatore
+VET0082,Cow,Holstein Friesian,2,Female,2026-06-01,Fever,Medication,Dr. Meena,1600,6,Recovered,No,Coimbatore
+VET0083,Goat,Boer,4,Female,2025-05-10,Injury,Surgery,Dr. Karthik,3500,7,Recovered,No,Chennai
+VET0084,Goat,Jamunapari,6,Female,2025-01-23,Fracture,Surgery,Dr. Priya,7800,28,Recovered,No,Madurai
+VET0085,Dog,Beagle,12,Female,2025-11-20,Dental Problem,Dental Care,Dr. Priya,4900,6,Improving,Yes,Salem
+VET0086,Dog,Labrador,13,Female,2025-10-23,Digestive Issues,Medication,Dr. Arun,2500,8,Referred,Yes,Coimbatore
+VET0087,Bird,Cockatiel,7,Male,2025-01-01,Fever,Medication,Dr. Arun,1300,4,Recovered,No,Salem
+VET0088,Dog,Labrador,9,Male,2026-07-29,Skin Infection,Medication,Dr. Priya,1700,4,Critical,Yes,Chennai
+VET0089,Cat,Maine Coon,11,Male,2025-06-28,Injury,Surgery,Dr. Rahul,4700,12,Recovered,Yes,Tiruppur
+VET0090,Dog,Golden Retriever,12,Female,2026-04-14,Ear Infection,Medication,Dr. Arun,2200,4,Follow-up Required,Yes,Chennai
+VET0091,Goat,Black Bengal,17,Male,2025-05-21,Vaccination,Vaccination,Dr. Rahul,1400,1,Recovered,No,Madurai
+VET0092,Dog,Golden Retriever,14,Male,2025-06-24,Skin Infection,Medication,Dr. Karthik,2500,5,Recovered,No,Coimbatore
+VET0093,Dog,Pug,3,Female,2026-04-03,Skin Infection,Medication,Dr. Meena,3400,5,Recovered,Yes,Salem
+VET0094,Goat,Malabari,3,Female,2026-03-19,Skin Infection,Medication,Dr. Rahul,3200,8,Recovered,No,Coimbatore
+VET0095,Cat,Siamese,8,Female,2025-10-15,Parasite Infection,Deworming,Dr. Meena,1800,3,Follow-up Required,Yes,Madurai
+VET0096,Dog,German Shepherd,7,Male,2025-05-31,Skin Infection,Medication,Dr. Rahul,2600,6,Recovered,No,Chennai
+VET0097,Rabbit,New Zealand White,10,Male,2026-01-21,Ear Infection,Medication,Dr. Rahul,1900,7,Improving,Yes,Coimbatore
+VET0098,Cat,Siamese,3,Female,2026-05-21,Fracture,Surgery,Dr. Karthik,8300,31,Critical,Yes,Tiruppur
+VET0099,Goat,Boer,17,Female,2026-06-05,Injury,Surgery,Dr. Karthik,6000,6,Recovered,No,Chennai
+VET0100,Dog,Pug,7,Male,2025-03-16,Fever,Medication,Dr. Arun,1600,3,Recovered,No,Coimbatore
+VET0101,Cat,Persian,12,Male,2025-12-08,Injury,Surgery,Dr. Priya,5500,13,Recovered,No,Madurai
+VET0102,Cat,Siamese,10,Male,2026-04-21,Vaccination,Vaccination,Dr. Karthik,1200,1,Recovered,No,Coimbatore
+VET0103,Dog,Golden Retriever,5,Male,2025-10-23,Fever,Medication,Dr. Karthik,800,5,Improving,Yes,Tiruppur
+VET0104,Dog,Indian Spitz,8,Male,2026-07-02,Skin Infection,Medication,Dr. Arun,2200,7,Recovered,No,Chennai
+VET0105,Cat,Siamese,2,Male,2025-03-14,Ear Infection,Medication,Dr. Priya,1900,4,Recovered,No,Chennai
+VET0106,Dog,German Shepherd,12,Male,2026-04-23,Parasite Infection,Deworming,Dr. Karthik,800,2,Recovered,No,Tiruppur
+VET0107,Dog,German Shepherd,1,Male,2025-01-12,Respiratory Infection,Medication,Dr. Rahul,3100,12,Critical,Yes,Salem
+VET0108,Cow,Sahiwal,18,Male,2025-09-25,Parasite Infection,Deworming,Dr. Rahul,2300,3,Follow-up Required,Yes,Madurai
+VET0109,Dog,Labrador,5,Female,2025-09-07,Fever,Medication,Dr. Karthik,1100,6,Improving,Yes,Tiruppur
+VET0110,Bird,Budgerigar,4,Male,2026-02-06,Parasite Infection,Deworming,Dr. Karthik,2100,2,Recovered,No,Chennai
+VET0111,Cat,Maine Coon,8,Female,2025-07-02,Respiratory Infection,Medication,Dr. Rahul,2100,11,Recovered,No,Madurai
+VET0112,Cow,Jersey,10,Female,2026-03-26,Fracture,Surgery,Dr. Karthik,15500,17,Critical,Yes,Tiruppur
+VET0113,Cat,Maine Coon,14,Female,2025-01-29,Skin Infection,Medication,Dr. Arun,2400,4,Recovered,No,Chennai
+VET0114,Dog,Labrador,9,Male,2025-12-25,Respiratory Infection,Medication,Dr. Arun,2100,9,Improving,Yes,Coimbatore
+VET0115,Dog,Indian Spitz,2,Female,2025-10-20,Parasite Infection,Deworming,Dr. Arun,2300,1,Referred,Yes,Coimbatore
+VET0116,Dog,Beagle,10,Male,2025-03-02,Fever,Medication,Dr. Karthik,1700,5,Recovered,No,Tiruppur
+VET0117,Bird,Budgerigar,8,Female,2026-07-29,Vaccination,Vaccination,Dr. Priya,1300,1,Recovered,No,Coimbatore
+VET0118,Dog,German Shepherd,6,Male,2025-02-23,Parasite Infection,Deworming,Dr. Arun,1700,1,Recovered,No,Coimbatore
+VET0119,Dog,German Shepherd,1,Female,2025-01-03,Injury,Surgery,Dr. Arun,11400,10,Recovered,No,Chennai
+VET0120,Cat,Siamese,8,Male,2026-06-25,Injury,Surgery,Dr. Priya,4700,13,Improving,Yes,Salem
+VET0121,Cat,Indian Shorthair,2,Female,2025-05-04,Respiratory Infection,Medication,Dr. Priya,2700,10,Recovered,No,Chennai
+VET0122,Bird,Lovebird,5,Male,2026-08-16,Ear Infection,Medication,Dr. Priya,2300,8,Recovered,No,Chennai
+VET0123,Cat,Maine Coon,1,Female,2025-08-04,Fracture,Surgery,Dr. Karthik,14300,30,Recovered,No,Coimbatore
+VET0124,Dog,Pug,10,Female,2025-07-10,Respiratory Infection,Medication,Dr. Priya,4200,8,Recovered,No,Chennai
+VET0125,Goat,Jamunapari,11,Male,2026-07-05,Skin Infection,Medication,Dr. Rahul,3400,5,Improving,Yes,Chennai
+VET0126,Dog,Pug,1,Male,2025-01-17,Ear Infection,Medication,Dr. Karthik,1500,5,Recovered,No,Coimbatore
+VET0127,Dog,German Shepherd,2,Male,2026-02-16,Injury,Surgery,Dr. Rahul,4000,19,Follow-up Required,Yes,Salem
+VET0128,Dog,Beagle,11,Female,2025-01-17,Skin Infection,Medication,Dr. Arun,2000,9,Improving,Yes,Coimbatore
+VET0129,Dog,German Shepherd,15,Male,2025-08-15,Fracture,Surgery,Dr. Karthik,12000,26,Recovered,Yes,Coimbatore
+VET0130,Dog,German Shepherd,13,Female,2025-04-09,Fever,Medication,Dr. Rahul,1100,2,Recovered,No,Coimbatore
+VET0131,Goat,Black Bengal,11,Male,2026-01-17,Ear Infection,Medication,Dr. Rahul,1900,7,Improving,Yes,Madurai
+VET0132,Dog,Labrador,11,Male,2026-07-24,Injury,Surgery,Dr. Karthik,4400,19,Improving,Yes,Coimbatore
+VET0133,Cat,Bengal,12,Female,2026-06-23,Dental Problem,Dental Care,Dr. Rahul,3600,5,Recovered,No,Coimbatore
+VET0134,Cat,Siamese,3,Male,2026-06-20,Respiratory Infection,Medication,Dr. Arun,2100,7,Recovered,No,Madurai
+VET0135,Dog,Labrador,9,Female,2026-05-16,Fever,Medication,Dr. Karthik,900,3,Improving,Yes,Tiruppur
+VET0136,Dog,Pug,2,Female,2026-05-10,Skin Infection,Medication,Dr. Arun,2100,9,Recovered,No,Tiruppur
+VET0137,Rabbit,New Zealand White,8,Male,2026-02-05,Injury,Surgery,Dr. Meena,10200,13,Recovered,Yes,Madurai
+VET0138,Cat,Siamese,2,Male,2026-08-12,Digestive Issues,Medication,Dr. Priya,1300,4,Recovered,Yes,Madurai
+VET0139,Goat,Jamunapari,12,Male,2025-11-13,Skin Infection,Medication,Dr. Arun,3400,6,Recovered,No,Madurai
+VET0140,Goat,Jamunapari,20,Female,2025-04-21,Ear Infection,Medication,Dr. Meena,1400,6,Critical,Yes,Chennai
+VET0141,Cow,Gir,9,Female,2025-01-14,Ear Infection,Medication,Dr. Rahul,2100,5,Recovered,No,Chennai
+VET0142,Cat,Maine Coon,4,Male,2025-11-05,Vaccination,Vaccination,Dr. Priya,1100,1,Recovered,No,Madurai
+VET0143,Dog,Labrador,12,Female,2025-02-04,Injury,Surgery,Dr. Meena,9700,10,Recovered,No,Coimbatore
+VET0144,Bird,Cockatiel,4,Male,2026-05-31,Respiratory Infection,Medication,Dr. Priya,3100,10,Follow-up Required,Yes,Tiruppur
+VET0145,Cat,Bengal,2,Female,2026-08-01,Skin Infection,Medication,Dr. Priya,1800,5,Improving,Yes,Tiruppur
+VET0146,Dog,Pug,13,Female,2026-07-06,Fever,Medication,Dr. Priya,800,2,Recovered,No,Coimbatore
+VET0147,Bird,Budgerigar,6,Male,2026-07-07,Digestive Issues,Medication,Dr. Arun,1500,8,Critical,Yes,Madurai
+VET0148,Dog,Labrador,9,Female,2025-03-07,Digestive Issues,Medication,Dr. Meena,2300,7,Recovered,No,Coimbatore
+VET0149,Bird,Budgerigar,10,Male,2025-09-27,Fever,Medication,Dr. Arun,1300,3,Recovered,No,Chennai
+VET0150,Dog,Golden Retriever,9,Female,2025-10-11,Vaccination,Vaccination,Dr. Rahul,1600,1,Recovered,No,Salem
+VET0151,Cow,Sahiwal,15,Female,2025-09-08,Dental Problem,Dental Care,Dr. Rahul,2900,5,Recovered,Yes,Tiruppur
+VET0152,Dog,Golden Retriever,5,Male,2025-06-10,Injury,Surgery,Dr. Karthik,4700,16,Recovered,No,Coimbatore
+VET0153,Bird,Cockatiel,7,Male,2025-07-03,Vaccination,Vaccination,Dr. Meena,900,1,Recovered,No,Coimbatore
+VET0154,Dog,Beagle,10,Female,2026-01-10,Respiratory Infection,Medication,Dr. Rahul,3800,9,Recovered,No,Tiruppur
+VET0155,Dog,Labrador,10,Male,2026-02-18,Parasite Infection,Deworming,Dr. Arun,800,2,Recovered,No,Coimbatore
+VET0156,Rabbit,Lop,1,Male,2025-10-14,Vaccination,Vaccination,Dr. Meena,1500,1,Recovered,Yes,Coimbatore
+VET0157,Cat,Persian,9,Female,2026-08-08,Fracture,Surgery,Dr. Priya,10800,27,Recovered,Yes,Coimbatore
+VET0158,Dog,Indian Spitz,2,Female,2026-02-01,Injury,Surgery,Dr. Arun,4500,11,Recovered,No,Coimbatore
+VET0159,Cat,Siamese,5,Male,2026-08-28,Digestive Issues,Medication,Dr. Meena,2600,3,Recovered,No,Coimbatore
+VET0160,Cat,Siamese,9,Male,2025-03-26,Respiratory Infection,Medication,Dr. Meena,4100,12,Improving,Yes,Coimbatore
+VET0161,Dog,Beagle,5,Male,2025-10-27,Skin Infection,Medication,Dr. Priya,3200,10,Recovered,No,Madurai
+VET0162,Cat,Indian Shorthair,7,Female,2025-04-27,Fever,Medication,Dr. Meena,1900,2,Recovered,No,Tiruppur
+VET0163,Dog,German Shepherd,4,Female,2026-01-08,Skin Infection,Medication,Dr. Karthik,3000,9,Recovered,No,Chennai
+VET0164,Dog,Indian Spitz,1,Male,2025-03-31,Respiratory Infection,Medication,Dr. Rahul,2100,7,Recovered,No,Coimbatore
+VET0165,Dog,Labrador,10,Female,2025-02-05,Dental Problem,Dental Care,Dr. Arun,3400,7,Improving,Yes,Coimbatore
+VET0166,Cat,Maine Coon,6,Female,2025-10-04,Skin Infection,Medication,Dr. Priya,2200,7,Recovered,No,Coimbatore
+VET0167,Dog,German Shepherd,1,Female,2025-10-20,Fracture,Surgery,Dr. Meena,12600,32,Improving,Yes,Chennai
+VET0168,Cat,Siamese,10,Male,2026-03-15,Respiratory Infection,Medication,Dr. Priya,4000,9,Recovered,No,Chennai
+VET0169,Cat,Indian Shorthair,12,Male,2025-06-09,Ear Infection,Medication,Dr. Arun,2700,5,Recovered,No,Chennai
+VET0170,Bird,Budgerigar,2,Male,2026-07-08,Dental Problem,Dental Care,Dr. Karthik,6000,2,Recovered,No,Madurai
+VET0171,Dog,Pug,8,Male,2025-12-19,Skin Infection,Medication,Dr. Arun,3100,6,Recovered,No,Madurai
+VET0172,Cat,Bengal,5,Female,2026-06-23,Skin Infection,Medication,Dr. Karthik,1600,8,Recovered,No,Chennai
+VET0173,Dog,Golden Retriever,2,Male,2025-06-21,Fever,Medication,Dr. Meena,1500,2,Follow-up Required,Yes,Coimbatore
+VET0174,Cat,Bengal,13,Male,2025-10-30,Vaccination,Vaccination,Dr. Arun,1500,1,Recovered,Yes,Salem
+VET0175,Dog,Beagle,3,Female,2026-06-26,Vaccination,Vaccination,Dr. Rahul,700,1,Recovered,Yes,Madurai
+VET0176,Cow,Jersey,20,Female,2026-02-10,Parasite Infection,Deworming,Dr. Meena,1600,1,Recovered,No,Madurai
+VET0177,Dog,Labrador,13,Female,2025-12-27,Fever,Medication,Dr. Arun,1100,3,Follow-up Required,Yes,Chennai
+VET0178,Goat,Jamunapari,4,Female,2025-11-07,Injury,Surgery,Dr. Meena,11900,7,Improving,Yes,Salem
+VET0179,Dog,Labrador,2,Male,2025-06-07,Skin Infection,Medication,Dr. Karthik,2700,5,Critical,Yes,Salem
+VET0180,Dog,Labrador,3,Female,2025-05-10,Digestive Issues,Medication,Dr. Priya,2100,4,Follow-up Required,Yes,Madurai
+VET0181,Goat,Boer,1,Female,2025-04-05,Injury,Surgery,Dr. Rahul,9400,5,Recovered,No,Coimbatore
+VET0182,Bird,Cockatiel,5,Female,2026-01-27,Skin Infection,Medication,Dr. Rahul,2400,5,Recovered,No,Chennai
+VET0183,Bird,Lovebird,4,Female,2026-03-23,Dental Problem,Dental Care,Dr. Karthik,6400,6,Recovered,No,Coimbatore
+VET0184,Cat,Siamese,2,Female,2025-09-10,Injury,Surgery,Dr. Karthik,8600,19,Follow-up Required,Yes,Coimbatore
+VET0185,Dog,Beagle,3,Male,2025-03-21,Fever,Medication,Dr. Arun,1100,5,Recovered,No,Coimbatore
+VET0186,Dog,Pug,12,Female,2025-08-19,Ear Infection,Medication,Dr. Rahul,2900,8,Critical,Yes,Coimbatore
+VET0187,Cat,Indian Shorthair,5,Female,2025-07-02,Digestive Issues,Medication,Dr. Rahul,1500,8,Recovered,Yes,Salem
+VET0188,Dog,Pug,5,Female,2025-08-30,Fever,Medication,Dr. Meena,1200,6,Recovered,Yes,Coimbatore
+VET0189,Dog,Golden Retriever,4,Female,2025-07-02,Injury,Surgery,Dr. Meena,11400,18,Recovered,No,Madurai
+VET0190,Goat,Boer,6,Female,2025-01-21,Digestive Issues,Medication,Dr. Arun,1700,7,Recovered,Yes,Tiruppur
+VET0191,Goat,Malabari,10,Female,2025-08-20,Fever,Medication,Dr. Karthik,1500,5,Recovered,No,Chennai
+VET0192,Dog,Labrador,8,Male,2026-04-12,Skin Infection,Medication,Dr. Rahul,2000,7,Recovered,No,Coimbatore
+VET0193,Cow,Jersey,3,Female,2025-01-17,Skin Infection,Medication,Dr. Priya,3100,7,Improving,Yes,Chennai
+VET0194,Bird,Lovebird,7,Male,2026-06-24,Parasite Infection,Deworming,Dr. Priya,1200,3,Recovered,No,Coimbatore
+VET0195,Dog,Beagle,8,Female,2025-12-26,Fracture,Surgery,Dr. Meena,9300,16,Recovered,Yes,Madurai
+VET0196,Cow,Jersey,18,Female,2025-05-29,Vaccination,Vaccination,Dr. Rahul,1100,1,Recovered,No,Tiruppur
+VET0197,Cat,Bengal,10,Male,2025-09-30,Skin Infection,Medication,Dr. Karthik,2400,5,Recovered,No,Chennai
+VET0198,Dog,German Shepherd,14,Female,2025-06-21,Vaccination,Vaccination,Dr. Arun,1100,1,Recovered,No,Coimbatore
+VET0199,Cat,Indian Shorthair,5,Female,2025-10-29,Respiratory Infection,Medication,Dr. Karthik,4000,11,Recovered,Yes,Coimbatore
+VET0200,Cat,Indian Shorthair,13,Male,2026-04-08,Skin Infection,Medication,Dr. Karthik,1900,6,Follow-up Required,Yes,Coimbatore
+VET0201,Dog,Indian Spitz,13,Male,2026-05-30,Dental Problem,Dental Care,Dr. Meena,2700,7,Recovered,No,Madurai
+VET0202,Cow,Gir,16,Female,2025-05-09,Skin Infection,Medication,Dr. Meena,3300,8,Critical,Yes,Coimbatore
+VET0203,Dog,German Shepherd,9,Female,2026-02-09,Ear Infection,Medication,Dr. Rahul,1500,6,Recovered,No,Chennai
+VET0204,Cat,Siamese,6,Female,2025-07-28,Respiratory Infection,Medication,Dr. Rahul,3700,10,Improving,Yes,Coimbatore
+VET0205,Dog,Golden Retriever,6,Female,2025-07-30,Parasite Infection,Deworming,Dr. Meena,1800,2,Recovered,No,Salem
+VET0206,Dog,German Shepherd,5,Female,2026-02-09,Digestive Issues,Medication,Dr. Rahul,1400,8,Recovered,No,Coimbatore
+VET0207,Cat,Bengal,3,Female,2025-12-02,Injury,Surgery,Dr. Priya,10300,11,Improving,Yes,Chennai
+VET0208,Cat,Bengal,1,Male,2025-07-30,Parasite Infection,Deworming,Dr. Priya,1100,5,Improving,Yes,Madurai
+VET0209,Cow,Sahiwal,13,Female,2025-12-16,Injury,Surgery,Dr. Arun,9700,11,Recovered,No,Chennai
+VET0210,Cow,Gir,13,Male,2026-02-05,Respiratory Infection,Medication,Dr. Meena,1900,8,Recovered,Yes,Coimbatore
+VET0211,Cat,Indian Shorthair,13,Female,2025-02-19,Fever,Medication,Dr. Rahul,1700,4,Recovered,No,Madurai
+VET0212,Rabbit,New Zealand White,10,Male,2025-10-29,Vaccination,Vaccination,Dr. Meena,1400,1,Recovered,No,Salem
+VET0213,Cat,Indian Shorthair,10,Female,2025-10-22,Respiratory Infection,Medication,Dr. Arun,2800,7,Recovered,No,Coimbatore
+VET0214,Cat,Bengal,4,Female,2026-07-02,Digestive Issues,Medication,Dr. Meena,1900,8,Recovered,Yes,Coimbatore
+VET0215,Dog,Indian Spitz,6,Male,2025-07-24,Fever,Medication,Dr. Karthik,1300,5,Recovered,No,Coimbatore
+VET0216,Rabbit,Dutch,2,Male,2026-06-03,Digestive Issues,Medication,Dr. Karthik,2200,4,Improving,Yes,Tiruppur
+VET0217,Cat,Indian Shorthair,12,Female,2025-05-22,Skin Infection,Medication,Dr. Priya,2800,8,Follow-up Required,Yes,Coimbatore
+VET0218,Cow,Jersey,19,Male,2026-01-19,Dental Problem,Dental Care,Dr. Rahul,3900,2,Recovered,Yes,Coimbatore
+VET0219,Dog,Indian Spitz,1,Female,2026-07-27,Dental Problem,Dental Care,Dr. Arun,2500,3,Recovered,No,Chennai
+VET0220,Dog,Indian Spitz,10,Male,2026-06-01,Parasite Infection,Deworming,Dr. Karthik,2200,1,Recovered,No,Madurai
+VET0221,Cat,Bengal,3,Female,2025-08-31,Digestive Issues,Medication,Dr. Meena,3000,3,Recovered,No,Chennai
+VET0222,Cow,Sahiwal,8,Male,2025-03-20,Injury,Surgery,Dr. Karthik,5200,8,Critical,Yes,Tiruppur
+VET0223,Cat,Bengal,15,Female,2025-09-11,Parasite Infection,Deworming,Dr. Meena,1700,1,Recovered,No,Chennai
+VET0224,Dog,Golden Retriever,3,Male,2026-05-19,Parasite Infection,Deworming,Dr. Arun,900,2,Recovered,No,Chennai
+VET0225,Cat,Persian,14,Female,2025-07-29,Digestive Issues,Medication,Dr. Karthik,1700,6,Recovered,No,Coimbatore
+VET0226,Rabbit,New Zealand White,1,Female,2025-05-09,Vaccination,Vaccination,Dr. Karthik,1500,1,Recovered,No,Coimbatore
+VET0227,Goat,Jamunapari,9,Female,2025-01-16,Skin Infection,Medication,Dr. Rahul,2600,10,Recovered,Yes,Coimbatore
+VET0228,Bird,Cockatiel,7,Female,2026-06-21,Digestive Issues,Medication,Dr. Priya,1300,3,Recovered,No,Coimbatore
+VET0229,Cow,Jersey,9,Female,2026-05-01,Digestive Issues,Medication,Dr. Meena,2600,8,Improving,Yes,Tiruppur
+VET0230,Rabbit,Angora,5,Female,2025-08-14,Injury,Surgery,Dr. Meena,4000,16,Recovered,No,Salem
+VET0231,Dog,Pug,2,Male,2025-11-03,Digestive Issues,Medication,Dr. Arun,2100,4,Improving,Yes,Chennai
+VET0232,Cat,Persian,11,Female,2025-10-16,Parasite Infection,Deworming,Dr. Meena,1400,5,Recovered,No,Madurai
+VET0233,Dog,Beagle,8,Male,2025-07-10,Fever,Medication,Dr. Rahul,1300,3,Recovered,No,Coimbatore
+VET0234,Dog,Indian Spitz,4,Female,2026-02-05,Respiratory Infection,Medication,Dr. Rahul,2300,5,Improving,Yes,Tiruppur
+VET0235,Cat,Maine Coon,11,Male,2025-12-20,Skin Infection,Medication,Dr. Karthik,2300,9,Recovered,No,Coimbatore
+VET0236,Goat,Black Bengal,8,Female,2025-09-27,Digestive Issues,Medication,Dr. Karthik,1300,8,Recovered,No,Tiruppur
+VET0237,Goat,Black Bengal,20,Male,2025-11-23,Parasite Infection,Deworming,Dr. Meena,2400,1,Recovered,No,Madurai
+VET0238,Cat,Indian Shorthair,8,Male,2025-10-13,Dental Problem,Dental Care,Dr. Karthik,2200,2,Recovered,No,Coimbatore
+VET0239,Dog,Indian Spitz,4,Male,2025-03-09,Respiratory Infection,Medication,Dr. Rahul,2700,12,Critical,Yes,Chennai
+VET0240,Rabbit,New Zealand White,1,Female,2025-09-25,Ear Infection,Medication,Dr. Priya,2200,6,Follow-up Required,Yes,Chennai
+VET0241,Cat,Bengal,12,Male,2025-07-20,Fever,Medication,Dr. Arun,2100,4,Improving,Yes,Coimbatore
+VET0242,Cow,Sahiwal,12,Female,2026-07-13,Digestive Issues,Medication,Dr. Rahul,1700,3,Recovered,Yes,Madurai
+VET0243,Cat,Indian Shorthair,7,Male,2025-12-14,Ear Infection,Medication,Dr. Meena,1700,7,Recovered,No,Tiruppur
+VET0244,Cat,Persian,7,Female,2025-09-19,Injury,Surgery,Dr. Priya,5700,13,Recovered,Yes,Tiruppur
+VET0245,Dog,German Shepherd,13,Male,2026-02-28,Vaccination,Vaccination,Dr. Arun,600,1,Recovered,No,Chennai
+VET0246,Dog,Indian Spitz,8,Male,2026-02-08,Skin Infection,Medication,Dr. Arun,2300,4,Recovered,No,Coimbatore
+VET0247,Dog,Indian Spitz,9,Female,2026-07-03,Vaccination,Vaccination,Dr. Karthik,1300,1,Recovered,No,Chennai
+VET0248,Goat,Boer,14,Male,2025-11-29,Ear Infection,Medication,Dr. Karthik,1300,9,Recovered,No,Coimbatore
+VET0249,Rabbit,Dutch,1,Male,2026-08-25,Fever,Medication,Dr. Arun,900,5,Improving,Yes,Madurai
+VET0250,Dog,Pug,1,Male,2025-11-20,Parasite Infection,Deworming,Dr. Karthik,1600,1,Recovered,No,Chennai
+VET0251,Cat,Persian,10,Male,2025-02-10,Skin Infection,Medication,Dr. Priya,3400,5,Recovered,No,Tiruppur
+VET0252,Cat,Siamese,9,Male,2026-07-05,Skin Infection,Medication,Dr. Karthik,3000,6,Improving,Yes,Salem
+VET0253,Cat,Maine Coon,8,Female,2025-03-22,Dental Problem,Dental Care,Dr. Rahul,6000,7,Recovered,No,Coimbatore
+VET0254,Rabbit,Lop,9,Male,2026-02-12,Dental Problem,Dental Care,Dr. Karthik,3800,6,Recovered,No,Coimbatore
+VET0255,Cat,Siamese,12,Female,2026-03-27,Dental Problem,Dental Care,Dr. Karthik,4200,5,Recovered,No,Chennai
+VET0256,Dog,Labrador,12,Male,2025-10-17,Skin Infection,Medication,Dr. Arun,1900,7,Recovered,Yes,Coimbatore
+VET0257,Dog,Pug,2,Female,2026-02-23,Injury,Surgery,Dr. Arun,9000,19,Recovered,No,Coimbatore
+VET0258,Goat,Malabari,20,Female,2025-07-23,Digestive Issues,Medication,Dr. Priya,2700,3,Recovered,Yes,Chennai
+VET0259,Dog,Golden Retriever,13,Female,2025-06-04,Dental Problem,Dental Care,Dr. Karthik,6400,4,Recovered,Yes,Coimbatore
+VET0260,Cat,Siamese,13,Male,2025-06-19,Fracture,Surgery,Dr. Priya,15300,19,Recovered,No,Salem
+VET0261,Bird,Parrot,4,Male,2025-04-19,Dental Problem,Dental Care,Dr. Arun,5800,7,Recovered,Yes,Chennai
+VET0262,Dog,Pug,3,Male,2026-07-08,Parasite Infection,Deworming,Dr. Meena,2000,5,Recovered,Yes,Coimbatore
+VET0263,Goat,Malabari,3,Male,2025-04-21,Digestive Issues,Medication,Dr. Karthik,2000,5,Recovered,No,Tiruppur
+VET0264,Cat,Persian,3,Male,2026-06-04,Parasite Infection,Deworming,Dr. Karthik,2000,5,Recovered,No,Coimbatore
+VET0265,Cat,Siamese,13,Male,2025-05-20,Respiratory Infection,Medication,Dr. Meena,4000,9,Improving,Yes,Coimbatore
+VET0266,Cow,Jersey,12,Female,2026-06-13,Fracture,Surgery,Dr. Meena,7800,33,Recovered,Yes,Tiruppur
+VET0267,Cat,Siamese,11,Male,2025-08-04,Injury,Surgery,Dr. Karthik,5900,19,Recovered,No,Chennai
+VET0268,Goat,Jamunapari,19,Male,2025-12-31,Injury,Surgery,Dr. Meena,7700,20,Follow-up Required,Yes,Coimbatore
+VET0269,Cat,Persian,3,Male,2025-11-19,Fracture,Surgery,Dr. Priya,9400,19,Recovered,No,Chennai
+VET0270,Cow,Gir,10,Female,2025-11-16,Fracture,Surgery,Dr. Arun,7200,30,Improving,Yes,Coimbatore
+VET0271,Dog,Labrador,3,Male,2026-01-05,Parasite Infection,Deworming,Dr. Karthik,900,2,Improving,Yes,Madurai
+VET0272,Goat,Boer,13,Female,2025-07-07,Skin Infection,Medication,Dr. Meena,2600,4,Improving,Yes,Madurai
+VET0273,Dog,Labrador,14,Female,2025-09-17,Respiratory Infection,Medication,Dr. Karthik,2200,11,Recovered,No,Madurai
+VET0274,Cat,Siamese,3,Male,2025-12-24,Skin Infection,Medication,Dr. Priya,3000,5,Recovered,No,Coimbatore
+VET0275,Cat,Siamese,13,Female,2025-04-21,Skin Infection,Medication,Dr. Karthik,3400,7,Critical,Yes,Salem
+VET0276,Rabbit,Lop,6,Male,2025-08-19,Fever,Medication,Dr. Rahul,1100,2,Recovered,No,Coimbatore
+VET0277,Dog,Labrador,1,Male,2025-01-23,Skin Infection,Medication,Dr. Meena,2000,9,Recovered,No,Madurai
+VET0278,Cat,Siamese,4,Male,2026-02-12,Respiratory Infection,Medication,Dr. Priya,2800,10,Recovered,Yes,Coimbatore
+VET0279,Dog,German Shepherd,2,Male,2025-03-16,Skin Infection,Medication,Dr. Arun,2300,7,Recovered,Yes,Chennai
+VET0280,Dog,Indian Spitz,7,Female,2026-01-25,Respiratory Infection,Medication,Dr. Rahul,4100,8,Improving,Yes,Tiruppur
+VET0281,Goat,Black Bengal,2,Female,2026-03-28,Fever,Medication,Dr. Rahul,1400,3,Critical,Yes,Chennai
+VET0282,Dog,Beagle,1,Female,2026-04-16,Ear Infection,Medication,Dr. Priya,1400,8,Recovered,No,Coimbatore
+VET0283,Dog,Golden Retriever,1,Female,2026-06-07,Ear Infection,Medication,Dr. Karthik,2600,4,Recovered,Yes,Madurai
+VET0284,Bird,Parrot,7,Female,2026-07-07,Digestive Issues,Medication,Dr. Arun,2500,4,Recovered,No,Coimbatore
+VET0285,Cow,Holstein Friesian,4,Male,2026-06-12,Dental Problem,Dental Care,Dr. Arun,6700,2,Critical,Yes,Salem
+VET0286,Cow,Jersey,8,Male,2025-10-01,Fever,Medication,Dr. Meena,1800,5,Follow-up Required,Yes,Coimbatore
+VET0287,Cow,Holstein Friesian,11,Male,2026-06-09,Dental Problem,Dental Care,Dr. Rahul,4000,7,Improving,Yes,Coimbatore
+VET0288,Goat,Jamunapari,6,Female,2026-02-02,Fever,Medication,Dr. Arun,1900,4,Recovered,No,Tiruppur
+VET0289,Dog,Pug,4,Female,2025-07-07,Injury,Surgery,Dr. Arun,7400,11,Improving,Yes,Chennai
+VET0290,Bird,Budgerigar,10,Male,2025-06-24,Dental Problem,Dental Care,Dr. Rahul,4700,3,Recovered,No,Coimbatore
+VET0291,Cow,Gir,12,Female,2026-07-09,Digestive Issues,Medication,Dr. Karthik,1500,6,Recovered,No,Coimbatore
+VET0292,Rabbit,Dutch,8,Female,2025-02-14,Dental Problem,Dental Care,Dr. Arun,5200,4,Recovered,Yes,Tiruppur
+VET0293,Cat,Indian Shorthair,7,Female,2025-08-06,Respiratory Infection,Medication,Dr. Rahul,2300,6,Follow-up Required,Yes,Chennai
+VET0294,Cat,Maine Coon,12,Female,2025-08-21,Vaccination,Vaccination,Dr. Arun,1600,1,Recovered,No,Salem
+VET0295,Cat,Maine Coon,8,Female,2025-03-09,Vaccination,Vaccination,Dr. Arun,1500,1,Recovered,No,Tiruppur
+VET0296,Dog,Indian Spitz,15,Male,2026-05-04,Injury,Surgery,Dr. Meena,8200,6,Recovered,No,Madurai
+VET0297,Cat,Persian,11,Female,2025-01-15,Vaccination,Vaccination,Dr. Priya,1200,1,Recovered,No,Chennai
+VET0298,Dog,Indian Spitz,6,Male,2026-06-04,Dental Problem,Dental Care,Dr. Karthik,5400,6,Recovered,No,Salem
+VET0299,Goat,Malabari,9,Female,2026-08-03,Ear Infection,Medication,Dr. Arun,2400,6,Follow-up Required,Yes,Coimbatore
+VET0300,Cat,Siamese,7,Female,2025-06-03,Dental Problem,Dental Care,Dr. Karthik,3200,5,Improving,Yes,Coimbatore
+VET0301,Cow,Gir,2,Female,2025-09-04,Injury,Surgery,Dr. Arun,6700,14,Recovered,No,Chennai
+VET0302,Cow,Sahiwal,12,Male,2026-02-25,Dental Problem,Dental Care,Dr. Karthik,5600,6,Recovered,No,Coimbatore
+VET0303,Goat,Malabari,8,Female,2026-08-26,Parasite Infection,Deworming,Dr. Meena,1400,5,Recovered,No,Madurai
+VET0304,Dog,Labrador,7,Male,2026-06-30,Skin Infection,Medication,Dr. Arun,3000,4,Recovered,No,Madurai
+VET0305,Dog,Indian Spitz,1,Male,2026-08-26,Vaccination,Vaccination,Dr. Meena,1200,1,Recovered,No,Chennai
+VET0306,Dog,Labrador,10,Female,2026-02-08,Fever,Medication,Dr. Priya,2000,4,Recovered,Yes,Tiruppur
+VET0307,Dog,Pug,4,Male,2025-09-13,Fever,Medication,Dr. Karthik,1400,4,Recovered,No,Coimbatore
+VET0308,Dog,German Shepherd,5,Female,2025-05-12,Fracture,Surgery,Dr. Rahul,16000,34,Recovered,No,Coimbatore
+VET0309,Dog,Indian Spitz,9,Male,2025-09-28,Fever,Medication,Dr. Rahul,1200,2,Recovered,No,Madurai
+VET0310,Cow,Sahiwal,3,Female,2026-03-09,Ear Infection,Medication,Dr. Rahul,1600,8,Recovered,No,Coimbatore
+VET0311,Cat,Persian,9,Female,2026-07-20,Skin Infection,Medication,Dr. Rahul,2800,8,Improving,Yes,Coimbatore
+VET0312,Dog,Golden Retriever,4,Female,2025-02-07,Skin Infection,Medication,Dr. Rahul,3000,7,Improving,Yes,Salem
+VET0313,Cat,Indian Shorthair,11,Male,2025-07-25,Respiratory Infection,Medication,Dr. Meena,2200,7,Follow-up Required,Yes,Tiruppur
+VET0314,Cow,Jersey,8,Male,2025-09-29,Dental Problem,Dental Care,Dr. Karthik,5600,3,Improving,Yes,Coimbatore
+VET0315,Cat,Persian,10,Female,2026-05-20,Vaccination,Vaccination,Dr. Karthik,1200,1,Recovered,No,Salem
+VET0316,Dog,Labrador,3,Female,2025-03-22,Respiratory Infection,Medication,Dr. Karthik,4300,11,Improving,Yes,Salem
+VET0317,Dog,German Shepherd,14,Male,2026-08-16,Respiratory Infection,Medication,Dr. Meena,2500,5,Recovered,No,Tiruppur
+VET0318,Goat,Black Bengal,16,Male,2025-04-19,Respiratory Infection,Medication,Dr. Meena,4000,12,Recovered,No,Salem
+VET0319,Cow,Holstein Friesian,11,Female,2026-02-23,Skin Infection,Medication,Dr. Priya,1900,9,Improving,Yes,Chennai
+VET0320,Dog,Golden Retriever,6,Male,2025-06-17,Injury,Surgery,Dr. Rahul,5700,9,Improving,Yes,Tiruppur
+VET0321,Cow,Gir,11,Female,2025-03-30,Digestive Issues,Medication,Dr. Karthik,2800,6,Recovered,No,Chennai
+VET0322,Dog,Indian Spitz,3,Female,2026-08-18,Ear Infection,Medication,Dr. Arun,2400,5,Recovered,Yes,Chennai
+VET0323,Dog,Golden Retriever,12,Male,2025-04-07,Fever,Medication,Dr. Rahul,1300,2,Critical,Yes,Coimbatore
+VET0324,Cow,Holstein Friesian,9,Male,2025-07-16,Skin Infection,Medication,Dr. Arun,3400,5,Recovered,No,Madurai
+VET0325,Cow,Gir,19,Female,2026-04-22,Skin Infection,Medication,Dr. Priya,2200,7,Recovered,No,Tiruppur
+VET0326,Dog,Indian Spitz,1,Female,2026-06-02,Injury,Surgery,Dr. Arun,11200,9,Follow-up Required,Yes,Madurai
+VET0327,Cow,Jersey,17,Female,2026-08-06,Fever,Medication,Dr. Priya,1800,4,Recovered,No,Coimbatore
+VET0328,Cat,Siamese,7,Male,2026-05-10,Dental Problem,Dental Care,Dr. Karthik,4600,7,Recovered,No,Madurai
+VET0329,Dog,German Shepherd,6,Male,2025-10-10,Respiratory Infection,Medication,Dr. Karthik,1800,5,Recovered,No,Coimbatore
+VET0330,Cat,Indian Shorthair,3,Female,2025-09-23,Fever,Medication,Dr. Rahul,1600,4,Improving,Yes,Coimbatore
+VET0331,Cat,Siamese,13,Female,2026-03-25,Digestive Issues,Medication,Dr. Meena,2000,7,Recovered,No,Tiruppur
+VET0332,Dog,Labrador,10,Female,2025-09-19,Parasite Infection,Deworming,Dr. Priya,800,1,Recovered,No,Coimbatore
+VET0333,Cow,Gir,15,Male,2026-08-28,Parasite Infection,Deworming,Dr. Meena,1000,1,Recovered,No,Madurai
+VET0334,Cat,Siamese,13,Female,2025-02-08,Respiratory Infection,Medication,Dr. Meena,2100,9,Critical,Yes,Coimbatore
+VET0335,Dog,Labrador,11,Female,2025-10-23,Skin Infection,Medication,Dr. Arun,1700,8,Recovered,No,Madurai
+VET0336,Dog,German Shepherd,15,Male,2025-06-13,Fracture,Surgery,Dr. Karthik,14600,27,Improving,Yes,Madurai
+VET0337,Cow,Sahiwal,8,Male,2026-05-09,Vaccination,Vaccination,Dr. Arun,900,1,Recovered,No,Coimbatore
+VET0338,Goat,Boer,9,Female,2026-07-22,Fracture,Surgery,Dr. Karthik,10200,35,Recovered,No,Madurai
+VET0339,Cat,Bengal,11,Male,2025-12-01,Dental Problem,Dental Care,Dr. Priya,2000,7,Improving,Yes,Coimbatore
+VET0340,Dog,Pug,8,Female,2025-07-26,Injury,Surgery,Dr. Priya,10700,11,Improving,Yes,Coimbatore
+VET0341,Rabbit,Dutch,5,Male,2025-01-21,Skin Infection,Medication,Dr. Meena,1700,10,Improving,Yes,Chennai
+VET0342,Goat,Boer,10,Male,2025-10-04,Fever,Medication,Dr. Arun,800,3,Improving,Yes,Salem
+VET0343,Dog,Pug,10,Male,2025-12-28,Digestive Issues,Medication,Dr. Karthik,1500,3,Recovered,No,Salem
+VET0344,Dog,Labrador,10,Male,2026-04-10,Parasite Infection,Deworming,Dr. Arun,700,3,Recovered,Yes,Coimbatore
+VET0345,Cow,Jersey,20,Male,2025-02-14,Respiratory Infection,Medication,Dr. Meena,3200,11,Recovered,No,Chennai
+VET0346,Dog,Labrador,14,Male,2026-02-20,Digestive Issues,Medication,Dr. Meena,2100,5,Recovered,No,Chennai
+VET0347,Dog,German Shepherd,14,Male,2025-09-04,Dental Problem,Dental Care,Dr. Meena,5600,7,Recovered,No,Chennai
+VET0348,Bird,Parrot,1,Male,2025-07-14,Digestive Issues,Medication,Dr. Karthik,1500,4,Recovered,No,Chennai
+VET0349,Cat,Indian Shorthair,13,Female,2026-03-09,Dental Problem,Dental Care,Dr. Priya,6300,6,Recovered,Yes,Chennai
+VET0350,Dog,German Shepherd,7,Female,2025-04-13,Fracture,Surgery,Dr. Arun,16000,15,Recovered,No,Madurai
+VET0351,Dog,Pug,10,Female,2025-05-24,Ear Infection,Medication,Dr. Arun,1200,9,Improving,Yes,Chennai
+VET0352,Goat,Boer,19,Female,2025-07-18,Injury,Surgery,Dr. Rahul,4200,17,Recovered,No,Chennai
+VET0353,Dog,Indian Spitz,8,Female,2026-03-11,Digestive Issues,Medication,Dr. Meena,1500,4,Recovered,No,Coimbatore
+VET0354,Cow,Gir,17,Male,2025-03-23,Skin Infection,Medication,Dr. Meena,2300,8,Improving,Yes,Tiruppur
+VET0355,Cat,Indian Shorthair,3,Female,2025-07-25,Injury,Surgery,Dr. Karthik,9400,12,Recovered,No,Coimbatore
+VET0356,Dog,Golden Retriever,14,Male,2025-03-03,Vaccination,Vaccination,Dr. Priya,1700,1,Recovered,No,Salem
+VET0357,Cat,Persian,9,Female,2025-11-10,Dental Problem,Dental Care,Dr. Meena,3800,6,Recovered,No,Coimbatore
+VET0358,Cow,Sahiwal,7,Female,2025-09-22,Respiratory Infection,Medication,Dr. Arun,2000,10,Improving,Yes,Coimbatore
+VET0359,Cat,Indian Shorthair,4,Female,2026-04-30,Ear Infection,Medication,Dr. Meena,2900,9,Improving,Yes,Chennai
+VET0360,Cow,Holstein Friesian,8,Male,2025-02-09,Digestive Issues,Medication,Dr. Meena,2400,5,Critical,Yes,Madurai
+VET0361,Cow,Sahiwal,2,Female,2026-01-31,Skin Infection,Medication,Dr. Arun,1800,5,Recovered,No,Coimbatore
+VET0362,Cow,Gir,3,Female,2025-03-02,Ear Infection,Medication,Dr. Priya,2300,9,Recovered,No,Coimbatore
+VET0363,Cat,Siamese,15,Male,2026-01-23,Ear Infection,Medication,Dr. Priya,2700,9,Improving,Yes,Madurai
+VET0364,Dog,Beagle,5,Male,2026-06-18,Fever,Medication,Dr. Karthik,1800,6,Critical,Yes,Salem
+VET0365,Cat,Siamese,9,Female,2026-01-01,Parasite Infection,Deworming,Dr. Priya,2400,5,Recovered,No,Salem
+VET0366,Dog,Indian Spitz,6,Female,2025-01-27,Respiratory Infection,Medication,Dr. Karthik,3400,7,Follow-up Required,Yes,Salem
+VET0367,Goat,Boer,15,Female,2025-09-10,Injury,Surgery,Dr. Karthik,6300,5,Follow-up Required,Yes,Coimbatore
+VET0368,Cow,Gir,16,Male,2026-08-21,Skin Infection,Medication,Dr. Priya,1600,10,Improving,Yes,Madurai
+VET0369,Dog,Golden Retriever,3,Female,2025-05-05,Skin Infection,Medication,Dr. Karthik,1600,6,Recovered,No,Chennai
+VET0370,Cow,Gir,16,Male,2026-06-24,Dental Problem,Dental Care,Dr. Priya,5200,4,Recovered,No,Madurai
+VET0371,Goat,Malabari,14,Male,2025-10-15,Vaccination,Vaccination,Dr. Karthik,600,1,Recovered,No,Coimbatore
+VET0372,Cat,Persian,9,Male,2025-07-01,Ear Infection,Medication,Dr. Meena,1600,9,Recovered,No,Coimbatore
+VET0373,Dog,Indian Spitz,15,Male,2025-04-03,Injury,Surgery,Dr. Karthik,8200,6,Recovered,No,Madurai
+VET0374,Goat,Jamunapari,6,Male,2025-06-05,Ear Infection,Medication,Dr. Rahul,2400,5,Recovered,Yes,Salem
+VET0375,Cat,Siamese,12,Female,2025-05-30,Respiratory Infection,Medication,Dr. Meena,2800,12,Recovered,No,Tiruppur
+VET0376,Rabbit,Lop,8,Female,2025-06-04,Dental Problem,Dental Care,Dr. Meena,5300,2,Follow-up Required,Yes,Coimbatore
+VET0377,Cow,Gir,8,Male,2026-08-30,Vaccination,Vaccination,Dr. Rahul,1300,1,Recovered,No,Tiruppur
+VET0378,Goat,Malabari,19,Female,2026-06-07,Fracture,Surgery,Dr. Meena,13000,21,Recovered,No,Coimbatore
+VET0379,Rabbit,Angora,5,Female,2026-08-07,Skin Infection,Medication,Dr. Rahul,2800,7,Recovered,No,Coimbatore
+VET0380,Dog,Beagle,13,Male,2025-02-05,Digestive Issues,Medication,Dr. Priya,1300,4,Improving,Yes,Coimbatore
+VET0381,Goat,Black Bengal,2,Male,2026-01-10,Fever,Medication,Dr. Priya,800,5,Recovered,Yes,Chennai
+VET0382,Dog,Golden Retriever,12,Female,2025-12-09,Skin Infection,Medication,Dr. Arun,2600,4,Recovered,No,Madurai
+VET0383,Dog,German Shepherd,13,Male,2026-06-14,Injury,Surgery,Dr. Rahul,8500,12,Recovered,No,Tiruppur
+VET0384,Rabbit,Angora,5,Female,2025-07-20,Skin Infection,Medication,Dr. Arun,1900,7,Recovered,No,Salem
+VET0385,Dog,Beagle,14,Female,2025-08-17,Digestive Issues,Medication,Dr. Meena,2600,5,Improving,Yes,Chennai
+VET0386,Cat,Bengal,8,Male,2025-07-06,Vaccination,Vaccination,Dr. Karthik,900,1,Recovered,No,Coimbatore
+VET0387,Dog,German Shepherd,13,Female,2025-09-04,Fracture,Surgery,Dr. Karthik,15200,20,Recovered,No,Tiruppur
+VET0388,Dog,Golden Retriever,15,Male,2025-11-04,Parasite Infection,Deworming,Dr. Meena,2000,1,Recovered,No,Coimbatore
+VET0389,Dog,Pug,10,Female,2025-10-03,Ear Infection,Medication,Dr. Arun,1600,8,Recovered,No,Coimbatore
+VET0390,Dog,German Shepherd,11,Male,2025-10-06,Fever,Medication,Dr. Rahul,1100,4,Recovered,No,Chennai
+VET0391,Cow,Sahiwal,18,Male,2025-10-13,Ear Infection,Medication,Dr. Rahul,2000,8,Improving,Yes,Madurai
+VET0392,Cat,Maine Coon,5,Female,2026-07-21,Skin Infection,Medication,Dr. Priya,2300,6,Recovered,No,Salem
+VET0393,Dog,Beagle,9,Female,2026-01-02,Fever,Medication,Dr. Arun,1800,5,Recovered,No,Coimbatore
+VET0394,Cat,Indian Shorthair,9,Female,2025-03-13,Skin Infection,Medication,Dr. Priya,3100,9,Recovered,No,Coimbatore
+VET0395,Cow,Gir,1,Female,2026-05-21,Ear Infection,Medication,Dr. Priya,1900,8,Recovered,No,Coimbatore
+VET0396,Cow,Gir,9,Male,2025-08-15,Injury,Surgery,Dr. Karthik,10400,5,Recovered,No,Madurai
+VET0397,Cat,Maine Coon,12,Female,2026-07-04,Fever,Medication,Dr. Meena,1900,6,Critical,Yes,Coimbatore
+VET0398,Rabbit,Angora,4,Female,2025-10-15,Vaccination,Vaccination,Dr. Karthik,1400,1,Recovered,No,Coimbatore
+VET0399,Dog,Golden Retriever,10,Female,2026-03-23,Parasite Infection,Deworming,Dr. Meena,1100,2,Referred,Yes,Coimbatore
+VET0400,Dog,Beagle,7,Female,2026-06-21,Fever,Medication,Dr. Priya,1600,4,Recovered,No,Tiruppur
+VET0401,Cat,Siamese,8,Male,2025-07-14,Fever,Medication,Dr. Rahul,2100,2,Recovered,No,Coimbatore
+VET0402,Cow,Gir,20,Female,2026-04-16,Fracture,Surgery,Dr. Arun,14200,30,Recovered,No,Madurai
+VET0403,Rabbit,Dutch,1,Female,2026-04-14,Digestive Issues,Medication,Dr. Priya,1600,7,Recovered,No,Coimbatore
+VET0404,Cat,Persian,9,Female,2025-03-11,Skin Infection,Medication,Dr. Meena,2100,6,Recovered,No,Chennai
+VET0405,Dog,Golden Retriever,7,Female,2026-07-06,Dental Problem,Dental Care,Dr. Karthik,4100,2,Follow-up Required,Yes,Salem
+VET0406,Dog,Pug,5,Female,2026-03-19,Skin Infection,Medication,Dr. Priya,2700,9,Recovered,Yes,Madurai
+VET0407,Dog,Indian Spitz,12,Female,2026-08-25,Fracture,Surgery,Dr. Meena,17900,22,Recovered,No,Tiruppur
+VET0408,Dog,German Shepherd,15,Female,2025-09-04,Injury,Surgery,Dr. Rahul,10100,8,Recovered,No,Madurai
+VET0409,Dog,German Shepherd,5,Male,2025-07-28,Digestive Issues,Medication,Dr. Arun,1200,8,Critical,Yes,Coimbatore
+VET0410,Dog,Labrador,14,Male,2025-06-12,Parasite Infection,Deworming,Dr. Rahul,1000,5,Recovered,No,Chennai
+VET0411,Dog,Golden Retriever,5,Female,2026-07-24,Skin Infection,Medication,Dr. Rahul,3300,10,Recovered,Yes,Coimbatore
+VET0412,Dog,Golden Retriever,2,Female,2025-09-06,Ear Infection,Medication,Dr. Karthik,1700,9,Recovered,No,Salem
+VET0413,Dog,Golden Retriever,3,Female,2025-05-02,Skin Infection,Medication,Dr. Rahul,1900,7,Improving,Yes,Chennai
+VET0414,Rabbit,Lop,4,Male,2025-05-08,Skin Infection,Medication,Dr. Meena,1800,8,Recovered,No,Chennai
+VET0415,Dog,Indian Spitz,10,Female,2025-08-25,Skin Infection,Medication,Dr. Karthik,2700,10,Recovered,No,Coimbatore
+VET0416,Dog,German Shepherd,8,Female,2026-01-06,Fracture,Surgery,Dr. Priya,11100,24,Recovered,No,Coimbatore
+VET0417,Dog,Pug,12,Female,2025-06-20,Digestive Issues,Medication,Dr. Priya,2600,7,Recovered,Yes,Coimbatore
+VET0418,Dog,Pug,10,Female,2026-02-28,Vaccination,Vaccination,Dr. Karthik,1100,1,Recovered,No,Chennai
+VET0419,Goat,Black Bengal,4,Male,2026-03-28,Vaccination,Vaccination,Dr. Karthik,1300,1,Recovered,No,Tiruppur
+VET0420,Dog,Golden Retriever,10,Male,2026-01-28,Injury,Surgery,Dr. Arun,10900,16,Recovered,No,Coimbatore
+VET0421,Dog,German Shepherd,15,Male,2025-02-16,Ear Infection,Medication,Dr. Priya,2000,9,Improving,Yes,Coimbatore
+VET0422,Dog,Labrador,10,Male,2026-05-09,Parasite Infection,Deworming,Dr. Priya,2000,1,Recovered,Yes,Coimbatore
+VET0423,Dog,Pug,13,Male,2026-05-18,Parasite Infection,Deworming,Dr. Priya,2400,2,Referred,Yes,Tiruppur
+VET0424,Dog,Labrador,3,Male,2025-07-06,Skin Infection,Medication,Dr. Karthik,3300,9,Improving,Yes,Coimbatore
+VET0425,Dog,Beagle,4,Male,2026-04-19,Digestive Issues,Medication,Dr. Meena,2000,5,Improving,Yes,Chennai
+VET0426,Goat,Boer,17,Female,2026-06-04,Fever,Medication,Dr. Meena,800,5,Recovered,No,Coimbatore
+VET0427,Dog,Indian Spitz,13,Female,2025-05-04,Respiratory Infection,Medication,Dr. Meena,3200,9,Improving,Yes,Madurai
+VET0428,Cat,Indian Shorthair,5,Male,2025-11-07,Dental Problem,Dental Care,Dr. Meena,2200,5,Improving,Yes,Coimbatore
+VET0429,Dog,German Shepherd,4,Female,2025-02-14,Skin Infection,Medication,Dr. Karthik,3300,10,Improving,Yes,Madurai
+VET0430,Dog,Indian Spitz,15,Female,2026-07-04,Digestive Issues,Medication,Dr. Arun,1700,6,Recovered,No,Chennai
+VET0431,Dog,Pug,14,Male,2025-10-05,Skin Infection,Medication,Dr. Priya,3400,7,Recovered,Yes,Chennai
+VET0432,Cat,Bengal,14,Male,2026-01-19,Vaccination,Vaccination,Dr. Rahul,600,1,Recovered,No,Salem
+VET0433,Cat,Siamese,12,Female,2025-05-24,Digestive Issues,Medication,Dr. Arun,1200,8,Recovered,No,Coimbatore
+VET0434,Dog,German Shepherd,12,Male,2025-08-13,Injury,Surgery,Dr. Priya,4800,20,Recovered,No,Salem
+VET0435,Cat,Bengal,10,Male,2025-10-23,Skin Infection,Medication,Dr. Karthik,2300,6,Follow-up Required,Yes,Coimbatore
+VET0436,Cow,Jersey,17,Female,2025-11-12,Vaccination,Vaccination,Dr. Rahul,1100,1,Recovered,Yes,Chennai
+VET0437,Rabbit,Dutch,9,Female,2026-07-08,Ear Infection,Medication,Dr. Arun,1500,8,Recovered,No,Salem
+VET0438,Dog,Labrador,10,Male,2025-11-18,Vaccination,Vaccination,Dr. Priya,500,1,Recovered,Yes,Coimbatore
+VET0439,Dog,Beagle,2,Male,2026-03-11,Injury,Surgery,Dr. Priya,4900,19,Improving,Yes,Coimbatore
+VET0440,Rabbit,Angora,7,Female,2025-05-08,Skin Infection,Medication,Dr. Rahul,1800,7,Recovered,No,Coimbatore
+VET0441,Cat,Indian Shorthair,9,Female,2025-06-13,Fracture,Surgery,Dr. Karthik,14600,20,Recovered,Yes,Coimbatore
+VET0442,Rabbit,Dutch,7,Male,2026-01-31,Ear Infection,Medication,Dr. Meena,2100,4,Recovered,No,Tiruppur
+VET0443,Cat,Bengal,13,Male,2026-01-07,Ear Infection,Medication,Dr. Rahul,2000,6,Recovered,No,Madurai
+VET0444,Dog,Golden Retriever,14,Male,2025-09-08,Skin Infection,Medication,Dr. Rahul,3200,6,Critical,Yes,Coimbatore
+VET0445,Cat,Siamese,12,Male,2026-08-24,Dental Problem,Dental Care,Dr. Karthik,3200,2,Recovered,Yes,Salem
+VET0446,Bird,Budgerigar,10,Female,2026-06-16,Dental Problem,Dental Care,Dr. Priya,3500,4,Improving,Yes,Chennai
+VET0447,Dog,German Shepherd,6,Female,2025-01-29,Ear Infection,Medication,Dr. Rahul,2300,6,Recovered,No,Chennai
+VET0448,Cow,Jersey,7,Female,2025-08-31,Fever,Medication,Dr. Meena,1900,4,Recovered,No,Salem
+VET0449,Dog,Pug,11,Male,2025-07-19,Parasite Infection,Deworming,Dr. Meena,1500,3,Recovered,No,Salem
+VET0450,Cat,Maine Coon,15,Male,2025-02-11,Dental Problem,Dental Care,Dr. Meena,6500,4,Recovered,No,Coimbatore
+VET0451,Cat,Persian,8,Male,2025-02-21,Vaccination,Vaccination,Dr. Arun,800,1,Recovered,No,Madurai
+VET0452,Cow,Sahiwal,5,Female,2026-08-23,Digestive Issues,Medication,Dr. Rahul,1900,3,Follow-up Required,Yes,Madurai
+VET0453,Dog,Indian Spitz,1,Male,2026-01-01,Ear Infection,Medication,Dr. Rahul,2800,6,Recovered,No,Coimbatore
+VET0454,Cat,Persian,6,Male,2026-04-12,Digestive Issues,Medication,Dr. Meena,2000,6,Recovered,Yes,Tiruppur
+VET0455,Cat,Bengal,15,Female,2025-08-05,Digestive Issues,Medication,Dr. Meena,2100,8,Recovered,No,Coimbatore
+VET0456,Cat,Persian,6,Male,2025-06-18,Vaccination,Vaccination,Dr. Priya,800,1,Recovered,No,Coimbatore
+VET0457,Dog,Labrador,12,Female,2026-05-31,Skin Infection,Medication,Dr. Arun,2400,7,Recovered,Yes,Coimbatore
+VET0458,Dog,Pug,13,Female,2025-10-19,Dental Problem,Dental Care,Dr. Arun,2700,4,Recovered,No,Coimbatore
+VET0459,Dog,Golden Retriever,11,Male,2025-09-17,Skin Infection,Medication,Dr. Arun,1900,4,Recovered,No,Salem
+VET0460,Dog,Golden Retriever,12,Female,2026-06-14,Parasite Infection,Deworming,Dr. Priya,1800,5,Recovered,No,Tiruppur
+VET0461,Dog,Indian Spitz,8,Female,2026-08-21,Respiratory Infection,Medication,Dr. Arun,1800,9,Recovered,No,Tiruppur
+VET0462,Dog,Beagle,11,Male,2025-09-03,Vaccination,Vaccination,Dr. Rahul,900,1,Recovered,No,Chennai
+VET0463,Cat,Indian Shorthair,2,Male,2025-05-15,Skin Infection,Medication,Dr. Arun,3200,5,Recovered,No,Salem
+VET0464,Dog,Golden Retriever,2,Female,2025-04-08,Parasite Infection,Deworming,Dr. Priya,1300,2,Improving,Yes,Salem
+VET0465,Cat,Maine Coon,14,Male,2026-02-16,Vaccination,Vaccination,Dr. Priya,700,1,Recovered,No,Coimbatore
+VET0466,Dog,Pug,11,Female,2025-09-08,Respiratory Infection,Medication,Dr. Karthik,2600,11,Recovered,Yes,Coimbatore
+VET0467,Dog,Golden Retriever,15,Female,2026-08-12,Skin Infection,Medication,Dr. Priya,2800,6,Critical,Yes,Coimbatore
+VET0468,Cat,Indian Shorthair,8,Male,2025-01-16,Skin Infection,Medication,Dr. Meena,2800,6,Critical,Yes,Coimbatore
+VET0469,Dog,Indian Spitz,6,Female,2025-04-23,Parasite Infection,Deworming,Dr. Arun,2100,1,Recovered,No,Coimbatore
+VET0470,Dog,Labrador,14,Female,2026-02-24,Parasite Infection,Deworming,Dr. Arun,1500,3,Recovered,No,Coimbatore
+VET0471,Dog,Indian Spitz,11,Female,2025-11-15,Fever,Medication,Dr. Arun,1900,4,Recovered,No,Coimbatore
+VET0472,Dog,Labrador,9,Female,2025-11-19,Skin Infection,Medication,Dr. Rahul,2400,9,Improving,Yes,Coimbatore
+VET0473,Dog,Indian Spitz,2,Female,2026-01-05,Ear Infection,Medication,Dr. Arun,1300,7,Recovered,No,Madurai
+VET0474,Goat,Black Bengal,14,Female,2026-01-09,Fever,Medication,Dr. Karthik,1300,5,Recovered,No,Tiruppur
+VET0475,Dog,Indian Spitz,12,Male,2025-10-16,Fever,Medication,Dr. Rahul,1700,5,Improving,Yes,Coimbatore
+VET0476,Bird,Budgerigar,3,Female,2026-08-15,Skin Infection,Medication,Dr. Meena,1700,8,Recovered,No,Madurai
+VET0477,Dog,Indian Spitz,7,Male,2025-08-02,Skin Infection,Medication,Dr. Arun,1500,5,Referred,Yes,Coimbatore
+VET0478,Dog,Golden Retriever,11,Male,2025-12-18,Ear Infection,Medication,Dr. Arun,2300,8,Recovered,No,Madurai
+VET0479,Dog,Golden Retriever,2,Female,2025-10-30,Dental Problem,Dental Care,Dr. Meena,6700,4,Recovered,No,Madurai
+VET0480,Dog,Pug,15,Male,2025-03-31,Dental Problem,Dental Care,Dr. Rahul,6300,6,Recovered,Yes,Tiruppur
+VET0481,Dog,Beagle,9,Female,2026-05-13,Injury,Surgery,Dr. Rahul,11900,10,Referred,Yes,Madurai
+VET0482,Dog,Indian Spitz,3,Male,2025-12-21,Skin Infection,Medication,Dr. Rahul,2700,6,Recovered,No,Coimbatore
+VET0483,Dog,Labrador,13,Male,2026-05-23,Fever,Medication,Dr. Rahul,1900,4,Recovered,No,Salem
+VET0484,Cat,Maine Coon,10,Male,2026-04-26,Fever,Medication,Dr. Priya,1700,5,Improving,Yes,Coimbatore
+VET0485,Cat,Indian Shorthair,9,Female,2026-05-06,Digestive Issues,Medication,Dr. Arun,1700,4,Improving,Yes,Coimbatore
+VET0486,Dog,Beagle,15,Male,2026-05-31,Digestive Issues,Medication,Dr. Arun,1300,3,Recovered,No,Coimbatore
+VET0487,Dog,Beagle,5,Female,2025-03-20,Respiratory Infection,Medication,Dr. Priya,3400,11,Recovered,No,Madurai
+VET0488,Dog,Labrador,15,Female,2026-06-05,Fracture,Surgery,Dr. Rahul,8100,25,Recovered,Yes,Coimbatore
+VET0489,Dog,Pug,8,Male,2025-11-04,Fever,Medication,Dr. Rahul,900,3,Recovered,No,Tiruppur
+VET0490,Dog,Golden Retriever,15,Male,2026-03-10,Fracture,Surgery,Dr. Arun,15900,26,Recovered,No,Madurai
+VET0491,Cat,Siamese,3,Female,2025-04-09,Respiratory Infection,Medication,Dr. Karthik,2300,7,Recovered,No,Coimbatore
+VET0492,Dog,Indian Spitz,8,Male,2025-11-20,Fever,Medication,Dr. Arun,1800,2,Recovered,No,Madurai
+VET0493,Cat,Maine Coon,15,Female,2025-08-20,Parasite Infection,Deworming,Dr. Priya,2400,2,Recovered,No,Chennai
+VET0494,Rabbit,New Zealand White,2,Female,2026-06-02,Parasite Infection,Deworming,Dr. Karthik,1600,5,Recovered,Yes,Chennai
+VET0495,Dog,German Shepherd,11,Female,2025-07-08,Skin Infection,Medication,Dr. Rahul,1500,6,Follow-up Required,Yes,Madurai
+VET0496,Dog,Golden Retriever,4,Female,2025-02-28,Parasite Infection,Deworming,Dr. Rahul,2000,1,Follow-up Required,Yes,Salem
+VET0497,Cow,Sahiwal,3,Female,2025-08-25,Ear Infection,Medication,Dr. Meena,1800,6,Follow-up Required,Yes,Coimbatore
+VET0498,Goat,Jamunapari,18,Male,2026-04-29,Dental Problem,Dental Care,Dr. Rahul,4200,2,Recovered,No,Tiruppur
+VET0499,Rabbit,New Zealand White,4,Female,2026-03-23,Skin Infection,Medication,Dr. Arun,2800,8,Referred,Yes,Coimbatore
+VET0500,Dog,German Shepherd,14,Female,2025-12-01,Digestive Issues,Medication,Dr. Karthik,2300,8,Recovered,No,Madurai
+VET0501,Goat,Jamunapari,20,Male,2025-01-01,Parasite Infection,Deworming,Dr. Priya,1200,4,Recovered,Yes,Chennai
+VET0502,Goat,Black Bengal,6,Female,2026-01-27,Skin Infection,Medication,Dr. Arun,2800,9,Recovered,No,Chennai
+VET0503,Dog,Pug,6,Male,2026-04-30,Digestive Issues,Medication,Dr. Arun,3000,4,Recovered,No,Coimbatore
+VET0504,Dog,Beagle,2,Female,2026-01-25,Injury,Surgery,Dr. Karthik,9900,9,Referred,Yes,Coimbatore
+VET0505,Dog,Pug,2,Male,2025-12-08,Fracture,Surgery,Dr. Arun,14800,16,Recovered,Yes,Madurai
+VET0506,Rabbit,Dutch,4,Female,2025-05-05,Respiratory Infection,Medication,Dr. Arun,3500,7,Recovered,No,Salem
+VET0507,Rabbit,Lop,7,Female,2026-04-17,Fever,Medication,Dr. Rahul,1800,2,Recovered,No,Madurai
+VET0508,Cow,Jersey,15,Female,2025-07-01,Injury,Surgery,Dr. Priya,3900,18,Improving,Yes,Coimbatore
+VET0509,Goat,Jamunapari,8,Female,2026-04-15,Vaccination,Vaccination,Dr. Karthik,600,1,Recovered,No,Coimbatore
+VET0510,Cat,Persian,12,Female,2026-03-11,Skin Infection,Medication,Dr. Karthik,3200,6,Recovered,No,Coimbatore
+VET0511,Dog,Labrador,15,Male,2025-03-24,Skin Infection,Medication,Dr. Rahul,2400,10,Recovered,No,Tiruppur
+VET0512,Rabbit,Dutch,10,Female,2026-06-27,Respiratory Infection,Medication,Dr. Arun,3900,6,Recovered,No,Salem
+VET0513,Rabbit,New Zealand White,3,Male,2026-04-27,Ear Infection,Medication,Dr. Rahul,2300,8,Recovered,No,Coimbatore
+VET0514,Cat,Indian Shorthair,12,Male,2025-03-02,Parasite Infection,Deworming,Dr. Priya,1700,2,Recovered,No,Chennai
+VET0515,Dog,Golden Retriever,12,Male,2025-11-23,Fracture,Surgery,Dr. Rahul,9100,29,Critical,Yes,Coimbatore
+VET0516,Cat,Maine Coon,2,Male,2025-03-22,Respiratory Infection,Medication,Dr. Arun,4300,8,Improving,Yes,Madurai
+VET0517,Dog,Pug,3,Female,2025-02-14,Digestive Issues,Medication,Dr. Karthik,2300,4,Recovered,No,Coimbatore
+VET0518,Dog,Pug,11,Male,2025-03-10,Parasite Infection,Deworming,Dr. Rahul,1800,2,Recovered,No,Coimbatore
+VET0519,Cat,Indian Shorthair,9,Male,2026-08-06,Skin Infection,Medication,Dr. Arun,2000,5,Recovered,No,Coimbatore
+VET0520,Dog,Indian Spitz,7,Female,2025-08-14,Digestive Issues,Medication,Dr. Arun,1800,6,Recovered,No,Coimbatore
+VET0521,Dog,German Shepherd,12,Female,2026-07-07,Dental Problem,Dental Care,Dr. Arun,5500,7,Improving,Yes,Coimbatore
+VET0522,Cat,Siamese,4,Female,2025-07-18,Fever,Medication,Dr. Priya,800,2,Recovered,Yes,Coimbatore
+VET0523,Dog,Pug,5,Female,2025-02-10,Digestive Issues,Medication,Dr. Rahul,1600,8,Recovered,Yes,Salem
+VET0524,Dog,Beagle,9,Female,2025-12-03,Skin Infection,Medication,Dr. Priya,2700,8,Recovered,No,Salem
+VET0525,Cat,Indian Shorthair,13,Male,2025-10-01,Dental Problem,Dental Care,Dr. Priya,2400,5,Referred,Yes,Coimbatore
+VET0526,Rabbit,Dutch,2,Male,2026-02-08,Digestive Issues,Medication,Dr. Karthik,2500,5,Recovered,No,Chennai
+VET0527,Dog,Golden Retriever,10,Male,2025-06-03,Skin Infection,Medication,Dr. Priya,1600,9,Follow-up Required,Yes,Salem
+VET0528,Dog,Labrador,1,Female,2026-08-11,Fracture,Surgery,Dr. Karthik,11200,17,Recovered,No,Tiruppur
+VET0529,Goat,Jamunapari,14,Female,2026-02-12,Ear Infection,Medication,Dr. Priya,2400,9,Recovered,Yes,Coimbatore
+VET0530,Dog,Pug,6,Female,2025-05-28,Injury,Surgery,Dr. Arun,6200,14,Recovered,No,Chennai
+VET0531,Dog,Beagle,10,Male,2026-05-29,Dental Problem,Dental Care,Dr. Meena,2300,5,Recovered,No,Chennai
+VET0532,Cat,Siamese,5,Female,2026-08-01,Ear Infection,Medication,Dr. Arun,1900,4,Recovered,No,Salem
+VET0533,Cat,Bengal,14,Male,2025-07-02,Parasite Infection,Deworming,Dr. Karthik,1900,2,Improving,Yes,Coimbatore
+VET0534,Cat,Indian Shorthair,6,Female,2026-06-08,Fracture,Surgery,Dr. Karthik,11200,35,Recovered,No,Coimbatore
+VET0535,Goat,Black Bengal,7,Male,2025-03-10,Skin Infection,Medication,Dr. Rahul,2000,10,Recovered,Yes,Chennai
+VET0536,Cat,Indian Shorthair,10,Male,2025-05-29,Fever,Medication,Dr. Priya,1600,4,Improving,Yes,Madurai
+VET0537,Cat,Siamese,12,Male,2025-08-26,Vaccination,Vaccination,Dr. Karthik,1000,1,Recovered,Yes,Coimbatore
+VET0538,Cat,Bengal,10,Male,2025-04-16,Skin Infection,Medication,Dr. Priya,2600,9,Critical,Yes,Madurai
+VET0539,Rabbit,Dutch,6,Female,2025-11-03,Respiratory Infection,Medication,Dr. Meena,4400,5,Recovered,No,Chennai
+VET0540,Dog,Beagle,4,Male,2026-04-05,Fever,Medication,Dr. Priya,1000,3,Recovered,No,Coimbatore
+VET0541,Rabbit,New Zealand White,1,Female,2026-02-26,Injury,Surgery,Dr. Meena,8900,10,Critical,Yes,Salem
+VET0542,Dog,Indian Spitz,2,Female,2026-07-17,Dental Problem,Dental Care,Dr. Arun,2000,6,Recovered,No,Chennai
+VET0543,Dog,Labrador,12,Female,2025-10-25,Injury,Surgery,Dr. Priya,5800,14,Recovered,No,Chennai
+VET0544,Dog,German Shepherd,8,Female,2025-12-09,Digestive Issues,Medication,Dr. Priya,1600,3,Improving,Yes,Coimbatore
+VET0545,Dog,Beagle,2,Male,2026-02-06,Injury,Surgery,Dr. Rahul,11400,12,Recovered,No,Coimbatore
+VET0546,Cow,Gir,4,Male,2026-06-09,Fracture,Surgery,Dr. Priya,12700,18,Improving,Yes,Chennai
+VET0547,Cat,Maine Coon,1,Female,2026-06-30,Fever,Medication,Dr. Rahul,1800,3,Referred,Yes,Coimbatore
+VET0548,Dog,Golden Retriever,10,Female,2025-09-07,Digestive Issues,Medication,Dr. Meena,2400,6,Referred,Yes,Tiruppur
+VET0549,Dog,Indian Spitz,15,Male,2025-10-09,Respiratory Infection,Medication,Dr. Arun,3000,12,Recovered,No,Coimbatore
+VET0550,Goat,Boer,20,Male,2025-06-18,Fever,Medication,Dr. Meena,1100,3,Improving,Yes,Madurai
+VET0551,Dog,Beagle,1,Female,2025-01-11,Respiratory Infection,Medication,Dr. Rahul,1800,9,Recovered,No,Coimbatore
+VET0552,Bird,Lovebird,4,Female,2025-12-02,Fever,Medication,Dr. Priya,1400,6,Recovered,Yes,Salem
+VET0553,Rabbit,Angora,5,Female,2025-10-11,Injury,Surgery,Dr. Priya,3500,9,Follow-up Required,Yes,Salem
+VET0554,Rabbit,Angora,10,Female,2025-06-30,Parasite Infection,Deworming,Dr. Karthik,1200,1,Improving,Yes,Coimbatore
+VET0555,Goat,Jamunapari,19,Female,2025-11-03,Digestive Issues,Medication,Dr. Priya,1700,6,Follow-up Required,Yes,Coimbatore
+VET0556,Dog,Beagle,5,Male,2026-06-05,Fever,Medication,Dr. Arun,1300,6,Recovered,No,Coimbatore
+VET0557,Cow,Sahiwal,13,Female,2025-07-26,Injury,Surgery,Dr. Arun,6900,16,Recovered,No,Coimbatore
+VET0558,Dog,Golden Retriever,3,Female,2025-06-19,Skin Infection,Medication,Dr. Meena,3200,10,Recovered,No,Madurai
+VET0559,Dog,German Shepherd,8,Male,2026-01-17,Vaccination,Vaccination,Dr. Karthik,1400,1,Recovered,No,Chennai
+VET0560,Goat,Boer,16,Male,2026-01-02,Respiratory Infection,Medication,Dr. Meena,3200,11,Recovered,No,Chennai
+VET0561,Cow,Jersey,18,Male,2026-08-11,Skin Infection,Medication,Dr. Priya,2800,8,Recovered,No,Salem
+VET0562,Cat,Bengal,5,Male,2025-05-25,Digestive Issues,Medication,Dr. Rahul,2200,7,Improving,Yes,Coimbatore
+VET0563,Dog,Beagle,3,Male,2025-10-27,Respiratory Infection,Medication,Dr. Rahul,4200,9,Recovered,No,Coimbatore
+VET0564,Cat,Persian,5,Female,2026-01-29,Fever,Medication,Dr. Karthik,2100,4,Follow-up Required,Yes,Chennai
+VET0565,Dog,Labrador,5,Female,2025-02-18,Fever,Medication,Dr. Meena,1900,6,Recovered,No,Madurai
+VET0566,Cat,Maine Coon,1,Male,2026-03-22,Parasite Infection,Deworming,Dr. Priya,900,3,Recovered,No,Chennai
+VET0567,Rabbit,New Zealand White,5,Female,2025-05-07,Digestive Issues,Medication,Dr. Arun,1200,8,Recovered,No,Tiruppur
+VET0568,Dog,German Shepherd,9,Male,2025-01-19,Digestive Issues,Medication,Dr. Karthik,2600,3,Follow-up Required,Yes,Salem
+VET0569,Dog,Golden Retriever,13,Female,2025-02-24,Respiratory Infection,Medication,Dr. Karthik,3800,8,Recovered,No,Coimbatore
+VET0570,Dog,Labrador,2,Male,2025-07-30,Skin Infection,Medication,Dr. Karthik,2000,10,Recovered,No,Chennai
+VET0571,Dog,German Shepherd,4,Male,2026-06-13,Injury,Surgery,Dr. Arun,9000,9,Follow-up Required,Yes,Tiruppur
+VET0572,Dog,Beagle,5,Female,2025-07-23,Vaccination,Vaccination,Dr. Rahul,600,1,Recovered,No,Chennai
+VET0573,Bird,Lovebird,8,Male,2025-10-06,Skin Infection,Medication,Dr. Meena,1700,4,Recovered,No,Chennai
+VET0574,Goat,Jamunapari,13,Female,2025-11-17,Parasite Infection,Deworming,Dr. Priya,1400,1,Improving,Yes,Coimbatore
+VET0575,Dog,Indian Spitz,6,Female,2025-01-27,Fever,Medication,Dr. Meena,1300,4,Recovered,No,Chennai
+VET0576,Rabbit,Lop,2,Female,2025-02-07,Digestive Issues,Medication,Dr. Karthik,3100,3,Critical,Yes,Tiruppur
+VET0577,Dog,Beagle,7,Female,2026-02-13,Respiratory Infection,Medication,Dr. Meena,4000,7,Recovered,No,Coimbatore
+VET0578,Dog,Labrador,9,Male,2025-05-20,Digestive Issues,Medication,Dr. Priya,1800,7,Improving,Yes,Coimbatore
+VET0579,Bird,Cockatiel,10,Male,2025-07-15,Parasite Infection,Deworming,Dr. Meena,1000,1,Improving,Yes,Coimbatore
+VET0580,Cat,Siamese,6,Male,2025-11-10,Skin Infection,Medication,Dr. Priya,2700,9,Recovered,No,Coimbatore
+VET0581,Dog,Golden Retriever,10,Male,2026-08-02,Skin Infection,Medication,Dr. Rahul,2000,7,Recovered,No,Chennai
+VET0582,Dog,Labrador,3,Male,2025-10-04,Fever,Medication,Dr. Karthik,1300,5,Critical,Yes,Salem
+VET0583,Dog,Indian Spitz,8,Female,2026-04-18,Digestive Issues,Medication,Dr. Rahul,2500,7,Improving,Yes,Coimbatore
+VET0584,Cow,Sahiwal,17,Male,2026-08-12,Fever,Medication,Dr. Priya,900,3,Recovered,No,Chennai
+VET0585,Dog,Golden Retriever,10,Female,2026-08-04,Fever,Medication,Dr. Meena,800,6,Recovered,No,Chennai
+VET0586,Cat,Persian,13,Male,2025-09-16,Respiratory Infection,Medication,Dr. Priya,2300,6,Recovered,No,Madurai
+VET0587,Cat,Maine Coon,13,Female,2025-03-11,Injury,Surgery,Dr. Priya,7300,19,Recovered,No,Chennai
+VET0588,Cat,Persian,6,Male,2025-04-01,Injury,Surgery,Dr. Meena,8300,10,Recovered,No,Coimbatore
+VET0589,Cat,Indian Shorthair,1,Female,2025-10-16,Injury,Surgery,Dr. Rahul,7300,6,Recovered,Yes,Tiruppur
+VET0590,Cat,Siamese,11,Female,2025-10-27,Fever,Medication,Dr. Priya,800,2,Recovered,No,Tiruppur
+VET0591,Cat,Persian,5,Male,2025-04-02,Fever,Medication,Dr. Rahul,900,6,Improving,Yes,Coimbatore
+VET0592,Dog,Golden Retriever,7,Female,2026-07-13,Fever,Medication,Dr. Priya,1300,4,Recovered,No,Tiruppur
+VET0593,Cat,Maine Coon,13,Female,2025-06-28,Respiratory Infection,Medication,Dr. Meena,2500,10,Recovered,No,Madurai
+VET0594,Bird,Budgerigar,5,Male,2025-04-12,Respiratory Infection,Medication,Dr. Karthik,1800,7,Recovered,No,Madurai
+VET0595,Dog,Beagle,9,Male,2026-05-01,Vaccination,Vaccination,Dr. Meena,1000,1,Recovered,Yes,Chennai
+VET0596,Goat,Boer,6,Male,2026-02-19,Digestive Issues,Medication,Dr. Arun,1200,4,Recovered,No,Coimbatore
+VET0597,Rabbit,New Zealand White,10,Male,2025-12-12,Injury,Surgery,Dr. Karthik,10800,19,Recovered,No,Coimbatore
+VET0598,Dog,Golden Retriever,15,Male,2025-07-27,Fracture,Surgery,Dr. Karthik,17900,35,Critical,Yes,Salem
+VET0599,Dog,Golden Retriever,9,Male,2026-04-01,Skin Infection,Medication,Dr. Rahul,2200,4,Recovered,No,Coimbatore
+VET0600,Cat,Indian Shorthair,4,Female,2025-02-27,Respiratory Infection,Medication,Dr. Priya,3800,6,Recovered,No,Salem
+VET0601,Cow,Sahiwal,5,Female,2026-02-11,Fever,Medication,Dr. Rahul,1900,5,Recovered,No,Coimbatore
+VET0602,Dog,Golden Retriever,10,Male,2025-08-08,Fever,Medication,Dr. Meena,1600,6,Recovered,No,Coimbatore
+VET0603,Cow,Holstein Friesian,1,Male,2026-03-02,Ear Infection,Medication,Dr. Rahul,2100,4,Recovered,No,Coimbatore
+VET0604,Cow,Holstein Friesian,2,Female,2026-02-08,Respiratory Infection,Medication,Dr. Karthik,2300,12,Recovered,Yes,Tiruppur
+VET0605,Dog,Indian Spitz,3,Female,2025-11-27,Fever,Medication,Dr. Priya,2000,5,Recovered,No,Salem
+VET0606,Cat,Maine Coon,6,Male,2025-09-28,Ear Infection,Medication,Dr. Karthik,1900,5,Recovered,No,Tiruppur
+VET0607,Rabbit,Dutch,2,Female,2025-04-13,Vaccination,Vaccination,Dr. Karthik,700,1,Recovered,No,Coimbatore
+VET0608,Goat,Boer,15,Female,2026-03-31,Skin Infection,Medication,Dr. Meena,3400,7,Recovered,No,Chennai
+VET0609,Cat,Maine Coon,6,Female,2026-03-15,Fever,Medication,Dr. Karthik,1300,2,Recovered,No,Madurai
+VET0610,Goat,Malabari,4,Female,2025-06-30,Skin Infection,Medication,Dr. Priya,2900,5,Recovered,No,Madurai
+VET0611,Cow,Gir,17,Female,2025-07-07,Skin Infection,Medication,Dr. Arun,2100,6,Improving,Yes,Coimbatore
+VET0612,Cow,Holstein Friesian,1,Male,2026-05-10,Injury,Surgery,Dr. Priya,5000,7,Recovered,No,Coimbatore
+VET0613,Cat,Bengal,1,Female,2025-04-16,Digestive Issues,Medication,Dr. Rahul,1200,4,Follow-up Required,Yes,Tiruppur
+VET0614,Cow,Jersey,18,Male,2026-07-28,Injury,Surgery,Dr. Priya,10700,18,Recovered,No,Coimbatore
+VET0615,Dog,German Shepherd,1,Female,2025-08-19,Injury,Surgery,Dr. Priya,4200,15,Recovered,No,Coimbatore
+VET0616,Dog,German Shepherd,4,Female,2025-04-22,Vaccination,Vaccination,Dr. Arun,1400,1,Recovered,No,Tiruppur
+VET0617,Rabbit,Angora,5,Female,2026-08-04,Parasite Infection,Deworming,Dr. Arun,1600,5,Follow-up Required,Yes,Coimbatore
+VET0618,Dog,Beagle,10,Male,2025-09-10,Parasite Infection,Deworming,Dr. Meena,1600,2,Recovered,No,Coimbatore
+VET0619,Dog,Beagle,7,Male,2026-03-21,Skin Infection,Medication,Dr. Priya,3200,4,Recovered,No,Coimbatore
+VET0620,Dog,Pug,12,Female,2026-01-18,Injury,Surgery,Dr. Karthik,10800,9,Recovered,Yes,Tiruppur
+VET0621,Cat,Indian Shorthair,12,Female,2026-04-29,Digestive Issues,Medication,Dr. Rahul,1600,5,Recovered,No,Madurai
+VET0622,Dog,Beagle,11,Female,2026-05-06,Fracture,Surgery,Dr. Arun,11300,22,Critical,Yes,Coimbatore
+VET0623,Cow,Gir,15,Female,2025-11-24,Digestive Issues,Medication,Dr. Karthik,1400,5,Recovered,No,Chennai
+VET0624,Dog,Beagle,3,Male,2026-01-02,Respiratory Infection,Medication,Dr. Rahul,2300,11,Recovered,Yes,Chennai
+VET0625,Dog,Labrador,6,Male,2025-09-26,Digestive Issues,Medication,Dr. Priya,2600,3,Recovered,Yes,Coimbatore
+VET0626,Cat,Indian Shorthair,10,Female,2026-02-26,Vaccination,Vaccination,Dr. Priya,1100,1,Recovered,Yes,Chennai
+VET0627,Cat,Siamese,14,Male,2025-07-05,Skin Infection,Medication,Dr. Meena,1500,9,Recovered,No,Madurai
+VET0628,Cat,Siamese,5,Male,2026-01-29,Vaccination,Vaccination,Dr. Rahul,700,1,Recovered,No,Tiruppur
+VET0629,Rabbit,New Zealand White,10,Female,2026-03-19,Injury,Surgery,Dr. Meena,6000,7,Recovered,No,Tiruppur
+VET0630,Bird,Parrot,5,Male,2025-04-01,Respiratory Infection,Medication,Dr. Rahul,3300,9,Critical,Yes,Chennai
+VET0631,Dog,Golden Retriever,11,Male,2025-06-23,Dental Problem,Dental Care,Dr. Priya,2000,4,Recovered,Yes,Tiruppur
+VET0632,Dog,Labrador,3,Female,2025-08-03,Vaccination,Vaccination,Dr. Rahul,1300,1,Recovered,No,Coimbatore
+VET0633,Goat,Boer,3,Female,2026-01-28,Skin Infection,Medication,Dr. Karthik,2300,10,Recovered,Yes,Tiruppur
+VET0634,Dog,Beagle,13,Male,2026-01-14,Injury,Surgery,Dr. Priya,6000,8,Recovered,No,Coimbatore
+VET0635,Goat,Jamunapari,11,Male,2025-12-13,Skin Infection,Medication,Dr. Rahul,2500,5,Recovered,No,Tiruppur
+VET0636,Cat,Maine Coon,2,Female,2026-06-23,Skin Infection,Medication,Dr. Rahul,2200,5,Recovered,No,Tiruppur
+VET0637,Rabbit,Angora,6,Female,2026-06-21,Injury,Surgery,Dr. Arun,6900,13,Improving,Yes,Coimbatore
+VET0638,Cat,Maine Coon,3,Female,2026-07-14,Parasite Infection,Deworming,Dr. Meena,1600,1,Follow-up Required,Yes,Salem
+VET0639,Cat,Indian Shorthair,6,Male,2026-04-13,Skin Infection,Medication,Dr. Priya,2900,8,Recovered,No,Madurai
+VET0640,Goat,Malabari,13,Female,2026-07-05,Digestive Issues,Medication,Dr. Meena,2800,8,Referred,Yes,Coimbatore
+VET0641,Cow,Sahiwal,18,Male,2025-11-21,Ear Infection,Medication,Dr. Priya,1400,4,Improving,Yes,Coimbatore
+VET0642,Goat,Jamunapari,16,Male,2026-04-19,Skin Infection,Medication,Dr. Arun,3000,10,Improving,Yes,Coimbatore
+VET0643,Dog,Labrador,10,Female,2026-08-28,Digestive Issues,Medication,Dr. Rahul,1900,8,Improving,Yes,Salem
+VET0644,Dog,Labrador,2,Male,2025-01-17,Parasite Infection,Deworming,Dr. Rahul,2200,3,Referred,Yes,Chennai
+VET0645,Cat,Siamese,5,Male,2026-02-04,Fever,Medication,Dr. Karthik,2000,6,Recovered,No,Chennai
+VET0646,Cat,Bengal,5,Female,2025-08-16,Fever,Medication,Dr. Karthik,1800,2,Recovered,No,Salem
+VET0647,Dog,Beagle,6,Male,2025-04-13,Ear Infection,Medication,Dr. Rahul,2100,4,Follow-up Required,Yes,Salem
+VET0648,Dog,German Shepherd,10,Female,2026-06-27,Parasite Infection,Deworming,Dr. Meena,2000,5,Recovered,Yes,Coimbatore
+VET0649,Dog,Pug,11,Male,2025-07-06,Dental Problem,Dental Care,Dr. Meena,2300,7,Recovered,No,Chennai
+VET0650,Dog,Indian Spitz,3,Female,2025-02-22,Ear Infection,Medication,Dr. Arun,2000,6,Recovered,No,Salem
+VET0651,Cat,Maine Coon,15,Male,2026-04-08,Skin Infection,Medication,Dr. Meena,2000,5,Recovered,No,Coimbatore
+VET0652,Dog,German Shepherd,11,Female,2026-05-19,Skin Infection,Medication,Dr. Karthik,3200,6,Improving,Yes,Salem
+VET0653,Dog,German Shepherd,10,Male,2026-04-28,Skin Infection,Medication,Dr. Meena,1800,10,Recovered,Yes,Madurai
+VET0654,Dog,German Shepherd,3,Female,2025-03-27,Respiratory Infection,Medication,Dr. Priya,2900,8,Referred,Yes,Madurai
+VET0655,Rabbit,Angora,9,Male,2026-01-06,Injury,Surgery,Dr. Karthik,9000,9,Recovered,No,Coimbatore
+VET0656,Dog,German Shepherd,14,Male,2026-01-31,Fracture,Surgery,Dr. Rahul,10000,27,Recovered,No,Coimbatore
+VET0657,Dog,Beagle,14,Male,2026-02-20,Digestive Issues,Medication,Dr. Priya,2200,8,Recovered,Yes,Coimbatore
+VET0658,Dog,Indian Spitz,15,Male,2025-08-02,Parasite Infection,Deworming,Dr. Meena,1400,1,Referred,Yes,Coimbatore
+VET0659,Dog,Beagle,5,Female,2026-04-15,Skin Infection,Medication,Dr. Priya,2200,6,Improving,Yes,Coimbatore
+VET0660,Dog,German Shepherd,8,Female,2025-04-28,Parasite Infection,Deworming,Dr. Rahul,1900,5,Recovered,No,Coimbatore
+VET0661,Dog,German Shepherd,2,Male,2025-04-02,Skin Infection,Medication,Dr. Rahul,3400,9,Recovered,Yes,Coimbatore
+VET0662,Bird,Cockatiel,9,Male,2025-07-16,Digestive Issues,Medication,Dr. Meena,2000,6,Recovered,No,Coimbatore
+VET0663,Dog,Golden Retriever,7,Male,2026-03-31,Digestive Issues,Medication,Dr. Karthik,1500,4,Recovered,No,Madurai
+VET0664,Dog,German Shepherd,14,Female,2026-02-07,Skin Infection,Medication,Dr. Priya,2500,10,Recovered,No,Coimbatore
+VET0665,Cat,Bengal,15,Female,2026-01-29,Ear Infection,Medication,Dr. Priya,1500,9,Recovered,No,Salem
+VET0666,Cat,Maine Coon,12,Male,2026-01-14,Digestive Issues,Medication,Dr. Priya,2400,4,Referred,Yes,Chennai
+VET0667,Goat,Malabari,5,Female,2026-03-20,Ear Infection,Medication,Dr. Karthik,1800,9,Recovered,No,Chennai
+VET0668,Dog,Beagle,8,Female,2026-07-23,Fever,Medication,Dr. Priya,1000,3,Recovered,No,Tiruppur
+VET0669,Dog,Beagle,3,Female,2025-06-01,Respiratory Infection,Medication,Dr. Karthik,3100,10,Improving,Yes,Madurai
+VET0670,Dog,Indian Spitz,12,Female,2026-06-30,Injury,Surgery,Dr. Arun,10700,16,Improving,Yes,Chennai
+VET0671,Cow,Sahiwal,1,Female,2025-04-23,Digestive Issues,Medication,Dr. Karthik,2400,7,Recovered,Yes,Chennai
+VET0672,Cat,Persian,8,Female,2026-01-04,Digestive Issues,Medication,Dr. Arun,1400,5,Recovered,No,Coimbatore
+VET0673,Cow,Holstein Friesian,14,Male,2025-12-26,Fever,Medication,Dr. Meena,1100,5,Referred,Yes,Coimbatore
+VET0674,Cat,Maine Coon,4,Female,2025-01-22,Parasite Infection,Deworming,Dr. Karthik,2200,3,Recovered,No,Coimbatore
+VET0675,Dog,Golden Retriever,10,Female,2025-08-28,Dental Problem,Dental Care,Dr. Meena,2000,2,Recovered,No,Salem
+VET0676,Rabbit,Lop,2,Female,2025-08-11,Injury,Surgery,Dr. Rahul,4200,19,Recovered,No,Coimbatore
+VET0677,Rabbit,Angora,9,Male,2025-03-26,Ear Infection,Medication,Dr. Karthik,1800,8,Follow-up Required,Yes,Coimbatore
+VET0678,Dog,Golden Retriever,3,Male,2026-02-26,Skin Infection,Medication,Dr. Rahul,3000,6,Follow-up Required,Yes,Salem
+VET0679,Cat,Persian,1,Female,2025-12-03,Respiratory Infection,Medication,Dr. Meena,2600,8,Recovered,No,Salem
+VET0680,Cow,Gir,18,Female,2026-06-12,Parasite Infection,Deworming,Dr. Rahul,1800,3,Recovered,Yes,Coimbatore
+VET0681,Cow,Gir,12,Male,2025-03-20,Digestive Issues,Medication,Dr. Arun,1700,4,Critical,Yes,Madurai
+VET0682,Goat,Jamunapari,11,Female,2025-06-12,Vaccination,Vaccination,Dr. Rahul,700,1,Recovered,Yes,Tiruppur
+VET0683,Cow,Sahiwal,20,Female,2026-02-19,Injury,Surgery,Dr. Karthik,3800,12,Recovered,Yes,Madurai
+VET0684,Dog,German Shepherd,6,Female,2025-07-11,Skin Infection,Medication,Dr. Rahul,3000,6,Recovered,No,Chennai
+VET0685,Bird,Lovebird,6,Female,2025-02-03,Injury,Surgery,Dr. Arun,4400,14,Recovered,No,Madurai
+VET0686,Dog,Beagle,12,Female,2025-06-07,Digestive Issues,Medication,Dr. Priya,3000,5,Recovered,No,Salem
+VET0687,Dog,Indian Spitz,4,Male,2025-09-24,Vaccination,Vaccination,Dr. Priya,1300,1,Recovered,No,Salem
+VET0688,Cat,Bengal,3,Male,2026-08-17,Skin Infection,Medication,Dr. Priya,1600,6,Recovered,No,Chennai
+VET0689,Goat,Malabari,12,Male,2025-05-18,Respiratory Infection,Medication,Dr. Rahul,2600,10,Recovered,No,Coimbatore
+VET0690,Dog,Labrador,10,Male,2026-08-28,Skin Infection,Medication,Dr. Karthik,1500,10,Recovered,No,Coimbatore
+VET0691,Cat,Bengal,9,Male,2026-06-19,Parasite Infection,Deworming,Dr. Arun,1200,2,Referred,Yes,Salem
+VET0692,Goat,Black Bengal,13,Male,2025-12-25,Parasite Infection,Deworming,Dr. Karthik,1200,1,Recovered,No,Chennai
+VET0693,Bird,Budgerigar,1,Male,2026-06-15,Skin Infection,Medication,Dr. Arun,2400,9,Recovered,No,Tiruppur
+VET0694,Rabbit,Dutch,9,Male,2025-11-22,Fever,Medication,Dr. Meena,2100,6,Recovered,No,Coimbatore
+VET0695,Goat,Boer,7,Male,2025-06-02,Digestive Issues,Medication,Dr. Meena,2900,3,Recovered,Yes,Salem
+VET0696,Dog,Pug,4,Male,2026-04-11,Dental Problem,Dental Care,Dr. Meena,2700,4,Recovered,Yes,Tiruppur
+VET0697,Dog,Indian Spitz,2,Male,2025-01-06,Dental Problem,Dental Care,Dr. Arun,6500,6,Recovered,No,Salem
+VET0698,Cat,Persian,4,Male,2025-05-29,Skin Infection,Medication,Dr. Meena,2500,9,Referred,Yes,Coimbatore
+VET0699,Rabbit,New Zealand White,1,Female,2025-03-20,Fracture,Surgery,Dr. Karthik,7500,24,Recovered,No,Madurai
+VET0700,Dog,Pug,14,Female,2025-11-15,Parasite Infection,Deworming,Dr. Meena,2000,3,Recovered,Yes,Salem
+VET0701,Rabbit,Angora,9,Male,2026-03-24,Dental Problem,Dental Care,Dr. Karthik,6200,2,Recovered,Yes,Salem
+VET0702,Rabbit,Angora,7,Male,2025-07-05,Fever,Medication,Dr. Priya,1000,6,Recovered,No,Madurai
+VET0703,Dog,Pug,8,Male,2025-06-25,Digestive Issues,Medication,Dr. Arun,2000,7,Recovered,No,Salem
+VET0704,Dog,Beagle,12,Female,2026-07-05,Skin Infection,Medication,Dr. Arun,2900,6,Improving,Yes,Tiruppur
+VET0705,Rabbit,Angora,7,Male,2026-01-21,Digestive Issues,Medication,Dr. Karthik,2400,5,Recovered,No,Coimbatore
+VET0706,Rabbit,Lop,9,Female,2025-03-12,Fever,Medication,Dr. Priya,1700,3,Recovered,No,Coimbatore
+VET0707,Dog,German Shepherd,14,Female,2025-05-13,Skin Infection,Medication,Dr. Priya,2900,4,Recovered,No,Coimbatore
+VET0708,Goat,Boer,12,Female,2026-02-08,Respiratory Infection,Medication,Dr. Meena,3400,10,Recovered,No,Coimbatore
+VET0709,Dog,Pug,13,Female,2026-03-14,Dental Problem,Dental Care,Dr. Karthik,6800,7,Recovered,No,Coimbatore
+VET0710,Cat,Persian,7,Female,2025-10-12,Skin Infection,Medication,Dr. Meena,2400,6,Recovered,No,Madurai
+VET0711,Goat,Malabari,19,Male,2025-02-25,Injury,Surgery,Dr. Meena,6800,14,Recovered,No,Coimbatore
+VET0712,Dog,Indian Spitz,9,Female,2026-07-19,Parasite Infection,Deworming,Dr. Arun,1600,4,Recovered,No,Coimbatore
+VET0713,Cow,Sahiwal,7,Male,2025-02-17,Skin Infection,Medication,Dr. Arun,2100,10,Recovered,No,Tiruppur
+VET0714,Rabbit,Lop,1,Female,2025-08-02,Digestive Issues,Medication,Dr. Meena,1700,7,Recovered,No,Coimbatore
+VET0715,Dog,German Shepherd,4,Male,2026-08-12,Digestive Issues,Medication,Dr. Priya,2800,7,Recovered,No,Coimbatore
+VET0716,Cow,Jersey,7,Male,2026-01-29,Dental Problem,Dental Care,Dr. Karthik,2800,3,Recovered,Yes,Coimbatore
+VET0717,Dog,Indian Spitz,7,Male,2026-07-22,Injury,Surgery,Dr. Priya,10500,16,Recovered,No,Tiruppur
+VET0718,Dog,Labrador,12,Female,2025-10-14,Dental Problem,Dental Care,Dr. Meena,6200,7,Referred,Yes,Coimbatore
+VET0719,Rabbit,Lop,5,Female,2026-03-22,Fever,Medication,Dr. Priya,2000,5,Recovered,No,Coimbatore
+VET0720,Dog,German Shepherd,2,Male,2025-10-04,Skin Infection,Medication,Dr. Priya,2500,10,Recovered,No,Salem
+VET0721,Rabbit,Lop,2,Male,2025-11-13,Parasite Infection,Deworming,Dr. Arun,1900,4,Recovered,No,Coimbatore
+VET0722,Bird,Parrot,1,Female,2025-04-09,Skin Infection,Medication,Dr. Arun,1800,6,Improving,Yes,Madurai
+VET0723,Cat,Indian Shorthair,2,Male,2026-06-26,Dental Problem,Dental Care,Dr. Arun,3900,4,Improving,Yes,Chennai
+VET0724,Dog,Beagle,9,Male,2025-09-22,Vaccination,Vaccination,Dr. Priya,1400,1,Recovered,No,Tiruppur
+VET0725,Dog,German Shepherd,10,Female,2025-01-01,Skin Infection,Medication,Dr. Priya,3200,5,Recovered,No,Tiruppur
+VET0726,Dog,Indian Spitz,5,Male,2025-10-03,Ear Infection,Medication,Dr. Priya,1900,5,Recovered,Yes,Chennai
+VET0727,Dog,German Shepherd,13,Male,2025-11-22,Fever,Medication,Dr. Karthik,1500,3,Recovered,No,Salem
+VET0728,Dog,Pug,14,Male,2025-04-14,Ear Infection,Medication,Dr. Priya,2200,5,Recovered,No,Coimbatore
+VET0729,Dog,Pug,2,Female,2026-08-08,Digestive Issues,Medication,Dr. Rahul,1800,7,Recovered,Yes,Coimbatore
+VET0730,Dog,Golden Retriever,2,Female,2025-04-06,Injury,Surgery,Dr. Rahul,6400,12,Improving,Yes,Salem
+VET0731,Dog,Beagle,10,Male,2025-09-27,Injury,Surgery,Dr. Priya,7100,16,Recovered,Yes,Madurai
+VET0732,Cat,Indian Shorthair,15,Female,2026-02-22,Vaccination,Vaccination,Dr. Priya,1500,1,Recovered,No,Chennai
+VET0733,Dog,Golden Retriever,8,Male,2025-01-03,Parasite Infection,Deworming,Dr. Arun,1900,1,Recovered,No,Chennai
+VET0734,Dog,Pug,4,Male,2025-02-22,Skin Infection,Medication,Dr. Karthik,3200,9,Recovered,No,Chennai
+VET0735,Dog,Indian Spitz,11,Male,2026-03-12,Vaccination,Vaccination,Dr. Arun,1300,1,Recovered,Yes,Coimbatore
+VET0736,Dog,German Shepherd,13,Male,2026-04-21,Digestive Issues,Medication,Dr. Rahul,2000,5,Recovered,No,Coimbatore
+VET0737,Cow,Holstein Friesian,13,Female,2025-05-22,Respiratory Infection,Medication,Dr. Arun,2600,12,Recovered,No,Tiruppur
+VET0738,Dog,Indian Spitz,2,Male,2025-08-12,Fracture,Surgery,Dr. Meena,15200,22,Recovered,No,Coimbatore
+VET0739,Cat,Indian Shorthair,14,Male,2026-07-15,Fever,Medication,Dr. Meena,2100,2,Follow-up Required,Yes,Madurai
+VET0740,Dog,Indian Spitz,14,Male,2026-04-08,Respiratory Infection,Medication,Dr. Arun,3000,8,Recovered,No,Chennai
+VET0741,Cat,Persian,8,Male,2025-03-07,Digestive Issues,Medication,Dr. Arun,1800,6,Improving,Yes,Salem
+VET0742,Goat,Black Bengal,8,Female,2025-09-03,Fracture,Surgery,Dr. Arun,12200,27,Follow-up Required,Yes,Coimbatore
+VET0743,Dog,Indian Spitz,15,Male,2025-12-04,Fracture,Surgery,Dr. Karthik,13700,24,Recovered,No,Madurai
+VET0744,Dog,Pug,9,Female,2025-12-15,Respiratory Infection,Medication,Dr. Meena,2000,7,Improving,Yes,Madurai
+VET0745,Dog,Labrador,7,Female,2025-01-23,Parasite Infection,Deworming,Dr. Arun,900,3,Critical,Yes,Tiruppur
+VET0746,Dog,Beagle,4,Male,2026-02-06,Fever,Medication,Dr. Rahul,2000,4,Improving,Yes,Coimbatore
+VET0747,Cow,Sahiwal,4,Male,2026-06-06,Digestive Issues,Medication,Dr. Karthik,2500,6,Recovered,No,Salem
+VET0748,Dog,Beagle,15,Female,2026-06-21,Skin Infection,Medication,Dr. Priya,1700,8,Recovered,No,Tiruppur
+VET0749,Dog,Beagle,14,Male,2025-07-28,Parasite Infection,Deworming,Dr. Rahul,900,3,Critical,Yes,Coimbatore
+VET0750,Cat,Persian,2,Female,2025-10-16,Injury,Surgery,Dr. Arun,4900,18,Recovered,No,Tiruppur
+VET0751,Cat,Bengal,13,Female,2025-07-02,Injury,Surgery,Dr. Meena,4800,14,Recovered,No,Coimbatore
+VET0752,Bird,Parrot,1,Female,2026-01-19,Injury,Surgery,Dr. Priya,8100,20,Critical,Yes,Madurai
+VET0753,Dog,Beagle,12,Female,2026-01-15,Injury,Surgery,Dr. Priya,4900,12,Recovered,No,Coimbatore
+VET0754,Dog,Beagle,1,Male,2025-12-17,Respiratory Infection,Medication,Dr. Priya,3200,6,Recovered,No,Madurai
+VET0755,Dog,Indian Spitz,5,Female,2026-01-10,Skin Infection,Medication,Dr. Priya,3300,9,Recovered,Yes,Madurai
+VET0756,Cat,Indian Shorthair,14,Male,2025-03-08,Digestive Issues,Medication,Dr. Meena,2900,5,Recovered,No,Salem
+VET0757,Dog,German Shepherd,7,Male,2025-04-19,Respiratory Infection,Medication,Dr. Priya,2100,12,Recovered,No,Coimbatore
+VET0758,Cow,Holstein Friesian,18,Male,2026-04-11,Fever,Medication,Dr. Priya,1600,3,Recovered,No,Tiruppur
+VET0759,Dog,Labrador,3,Male,2025-12-17,Skin Infection,Medication,Dr. Karthik,1600,5,Follow-up Required,Yes,Madurai
+VET0760,Rabbit,Lop,1,Female,2026-03-12,Injury,Surgery,Dr. Priya,8700,5,Recovered,No,Coimbatore
+VET0761,Goat,Black Bengal,6,Female,2026-08-08,Digestive Issues,Medication,Dr. Priya,2000,6,Improving,Yes,Tiruppur
+VET0762,Cat,Maine Coon,11,Male,2026-08-13,Respiratory Infection,Medication,Dr. Meena,2600,6,Recovered,No,Coimbatore
+VET0763,Goat,Jamunapari,13,Female,2025-08-26,Skin Infection,Medication,Dr. Arun,1800,5,Recovered,No,Tiruppur
+VET0764,Dog,Golden Retriever,10,Male,2025-11-19,Parasite Infection,Deworming,Dr. Priya,1800,2,Recovered,No,Tiruppur
+VET0765,Dog,German Shepherd,13,Female,2026-05-18,Injury,Surgery,Dr. Priya,9300,13,Recovered,No,Madurai
+VET0766,Cat,Siamese,1,Male,2025-12-05,Skin Infection,Medication,Dr. Meena,2200,8,Recovered,No,Salem
+VET0767,Cat,Persian,13,Female,2025-01-06,Fracture,Surgery,Dr. Arun,9500,23,Recovered,No,Coimbatore
+VET0768,Dog,Labrador,13,Male,2026-01-15,Vaccination,Vaccination,Dr. Arun,800,1,Recovered,No,Chennai
+VET0769,Cat,Siamese,1,Male,2025-05-04,Dental Problem,Dental Care,Dr. Meena,5000,2,Critical,Yes,Chennai
+VET0770,Cat,Siamese,2,Female,2025-12-22,Respiratory Infection,Medication,Dr. Karthik,2400,12,Recovered,Yes,Chennai
+VET0771,Cat,Persian,13,Male,2025-11-02,Parasite Infection,Deworming,Dr. Priya,1000,2,Recovered,No,Madurai
+VET0772,Cat,Maine Coon,1,Female,2025-07-17,Digestive Issues,Medication,Dr. Rahul,1400,8,Improving,Yes,Coimbatore
+VET0773,Dog,Indian Spitz,10,Male,2026-03-18,Injury,Surgery,Dr. Priya,5800,6,Recovered,Yes,Tiruppur
+VET0774,Dog,Beagle,1,Male,2025-02-07,Respiratory Infection,Medication,Dr. Rahul,3800,6,Recovered,No,Coimbatore
+VET0775,Cat,Persian,1,Male,2025-02-25,Vaccination,Vaccination,Dr. Arun,1000,1,Recovered,Yes,Coimbatore
+VET0776,Cat,Siamese,1,Male,2025-11-12,Vaccination,Vaccination,Dr. Meena,900,1,Recovered,Yes,Coimbatore
+VET0777,Dog,Labrador,4,Female,2026-07-09,Skin Infection,Medication,Dr. Priya,1500,5,Improving,Yes,Coimbatore
+VET0778,Cat,Persian,7,Female,2025-08-18,Fever,Medication,Dr. Priya,1500,6,Follow-up Required,Yes,Chennai
+VET0779,Rabbit,Lop,9,Female,2026-07-27,Fever,Medication,Dr. Meena,1300,3,Recovered,No,Chennai
+VET0780,Dog,Labrador,3,Male,2026-07-12,Fever,Medication,Dr. Meena,2100,3,Improving,Yes,Coimbatore
+VET0781,Cat,Maine Coon,4,Female,2026-01-18,Vaccination,Vaccination,Dr. Rahul,500,1,Recovered,Yes,Madurai
+VET0782,Rabbit,Dutch,3,Female,2025-12-02,Ear Infection,Medication,Dr. Priya,1500,8,Recovered,No,Coimbatore
+VET0783,Cow,Gir,1,Female,2026-03-03,Fracture,Surgery,Dr. Rahul,16600,16,Recovered,No,Salem
+VET0784,Cat,Maine Coon,12,Female,2026-03-03,Ear Infection,Medication,Dr. Karthik,1800,5,Recovered,No,Coimbatore
+VET0785,Dog,Labrador,6,Female,2026-07-27,Ear Infection,Medication,Dr. Arun,1700,5,Recovered,No,Tiruppur
+VET0786,Dog,Indian Spitz,15,Male,2025-05-06,Digestive Issues,Medication,Dr. Karthik,2700,8,Recovered,Yes,Coimbatore
+VET0787,Dog,Golden Retriever,2,Male,2026-08-30,Fever,Medication,Dr. Karthik,800,6,Recovered,No,Tiruppur
+VET0788,Dog,Labrador,4,Male,2026-07-11,Skin Infection,Medication,Dr. Rahul,2400,4,Improving,Yes,Madurai
+VET0789,Goat,Black Bengal,12,Female,2025-08-20,Fever,Medication,Dr. Meena,1700,6,Recovered,No,Chennai
+VET0790,Dog,Labrador,10,Male,2025-07-03,Respiratory Infection,Medication,Dr. Priya,2800,6,Recovered,No,Coimbatore
+VET0791,Dog,Golden Retriever,3,Male,2026-08-24,Injury,Surgery,Dr. Priya,7700,17,Recovered,Yes,Madurai
+VET0792,Dog,Golden Retriever,9,Male,2026-03-28,Parasite Infection,Deworming,Dr. Arun,900,5,Recovered,No,Chennai
+VET0793,Cow,Gir,15,Male,2026-03-27,Fracture,Surgery,Dr. Arun,10500,34,Recovered,No,Salem
+VET0794,Cat,Maine Coon,1,Male,2026-05-12,Digestive Issues,Medication,Dr. Rahul,2600,5,Recovered,No,Coimbatore
+VET0795,Dog,Labrador,1,Male,2026-07-18,Dental Problem,Dental Care,Dr. Karthik,2400,3,Recovered,Yes,Coimbatore
+VET0796,Dog,Beagle,13,Female,2025-09-05,Skin Infection,Medication,Dr. Rahul,3100,6,Critical,Yes,Coimbatore
+VET0797,Cat,Siamese,5,Male,2025-04-07,Fever,Medication,Dr. Meena,1700,2,Recovered,No,Chennai
+VET0798,Bird,Parrot,2,Female,2025-02-08,Skin Infection,Medication,Dr. Rahul,2000,5,Recovered,No,Chennai
+VET0799,Bird,Cockatiel,4,Female,2025-01-12,Dental Problem,Dental Care,Dr. Meena,6900,3,Improving,Yes,Coimbatore
+VET0800,Cat,Maine Coon,2,Female,2026-01-22,Vaccination,Vaccination,Dr. Priya,1700,1,Recovered,No,Coimbatore
+VET0801,Dog,Golden Retriever,6,Male,2026-02-21,Parasite Infection,Deworming,Dr. Meena,1100,5,Improving,Yes,Salem
+VET0802,Goat,Boer,2,Male,2025-01-20,Fever,Medication,Dr. Meena,1200,6,Recovered,No,Salem
+VET0803,Cow,Gir,4,Female,2025-09-21,Dental Problem,Dental Care,Dr. Rahul,2900,6,Recovered,No,Coimbatore
+VET0804,Cat,Maine Coon,7,Male,2025-01-31,Ear Infection,Medication,Dr. Arun,1500,7,Recovered,No,Salem
+VET0805,Dog,Golden Retriever,8,Female,2026-06-29,Vaccination,Vaccination,Dr. Karthik,1500,1,Recovered,Yes,Tiruppur
+VET0806,Cat,Maine Coon,3,Male,2025-10-05,Respiratory Infection,Medication,Dr. Meena,3800,5,Improving,Yes,Madurai
+VET0807,Dog,German Shepherd,1,Male,2025-07-23,Parasite Infection,Deworming,Dr. Karthik,1200,1,Improving,Yes,Salem
+VET0808,Bird,Parrot,8,Male,2025-01-25,Vaccination,Vaccination,Dr. Priya,1000,1,Recovered,Yes,Chennai
+VET0809,Rabbit,Lop,7,Female,2026-05-10,Parasite Infection,Deworming,Dr. Arun,1700,1,Recovered,No,Salem
+VET0810,Cat,Bengal,12,Male,2026-07-30,Ear Infection,Medication,Dr. Rahul,1500,8,Critical,Yes,Coimbatore
+VET0811,Cow,Jersey,18,Female,2026-05-07,Injury,Surgery,Dr. Karthik,8000,6,Referred,Yes,Chennai
+VET0812,Cat,Siamese,5,Female,2025-01-23,Fracture,Surgery,Dr. Priya,16100,32,Recovered,Yes,Chennai
+VET0813,Dog,German Shepherd,5,Male,2026-08-21,Digestive Issues,Medication,Dr. Arun,1900,3,Recovered,No,Madurai
+VET0814,Cow,Holstein Friesian,11,Male,2025-02-28,Skin Infection,Medication,Dr. Rahul,3200,4,Recovered,Yes,Coimbatore
+VET0815,Goat,Black Bengal,5,Male,2025-03-22,Ear Infection,Medication,Dr. Rahul,1700,4,Recovered,Yes,Madurai
+VET0816,Goat,Black Bengal,13,Male,2025-07-19,Respiratory Infection,Medication,Dr. Arun,2200,6,Recovered,No,Tiruppur
+VET0817,Dog,Golden Retriever,4,Male,2025-01-15,Fever,Medication,Dr. Karthik,2000,4,Recovered,No,Coimbatore
+VET0818,Cat,Persian,12,Male,2025-05-27,Dental Problem,Dental Care,Dr. Karthik,6300,5,Recovered,Yes,Coimbatore
+VET0819,Cow,Sahiwal,13,Male,2026-06-01,Fever,Medication,Dr. Meena,1200,4,Recovered,No,Coimbatore
+VET0820,Dog,Indian Spitz,15,Male,2025-02-22,Dental Problem,Dental Care,Dr. Priya,3100,7,Recovered,No,Coimbatore
+VET0821,Bird,Budgerigar,2,Male,2025-11-02,Respiratory Infection,Medication,Dr. Rahul,2900,7,Recovered,Yes,Tiruppur
+VET0822,Dog,Golden Retriever,3,Male,2025-07-07,Respiratory Infection,Medication,Dr. Priya,2500,10,Recovered,Yes,Coimbatore
+VET0823,Goat,Boer,19,Female,2025-03-13,Vaccination,Vaccination,Dr. Karthik,500,1,Recovered,Yes,Chennai
+VET0824,Cat,Persian,13,Female,2026-02-24,Skin Infection,Medication,Dr. Meena,2700,7,Recovered,Yes,Chennai
+VET0825,Cat,Persian,6,Female,2026-08-15,Fracture,Surgery,Dr. Meena,7500,30,Recovered,No,Tiruppur
+VET0826,Bird,Cockatiel,7,Male,2026-03-17,Fever,Medication,Dr. Rahul,1100,6,Improving,Yes,Coimbatore
+VET0827,Dog,German Shepherd,7,Female,2025-05-21,Digestive Issues,Medication,Dr. Meena,1300,4,Recovered,No,Coimbatore
+VET0828,Rabbit,Lop,6,Male,2025-09-10,Digestive Issues,Medication,Dr. Arun,1700,3,Recovered,No,Chennai
+VET0829,Cat,Bengal,12,Female,2026-03-30,Fever,Medication,Dr. Arun,2100,2,Recovered,Yes,Madurai
+VET0830,Dog,Pug,12,Female,2025-01-18,Skin Infection,Medication,Dr. Arun,1500,6,Recovered,No,Madurai
+VET0831,Cat,Persian,5,Male,2025-12-19,Fever,Medication,Dr. Priya,1700,6,Recovered,No,Coimbatore
+VET0832,Dog,German Shepherd,3,Female,2025-03-17,Dental Problem,Dental Care,Dr. Arun,6600,4,Recovered,No,Coimbatore
+VET0833,Dog,Beagle,5,Male,2025-06-24,Skin Infection,Medication,Dr. Arun,1500,6,Recovered,No,Chennai
+VET0834,Dog,Golden Retriever,3,Male,2025-09-13,Injury,Surgery,Dr. Meena,9900,10,Recovered,Yes,Coimbatore
+VET0835,Cat,Bengal,11,Male,2025-08-22,Fever,Medication,Dr. Priya,2100,6,Recovered,No,Coimbatore
+VET0836,Dog,Beagle,12,Female,2025-12-30,Digestive Issues,Medication,Dr. Priya,1400,4,Recovered,No,Salem
+VET0837,Dog,Labrador,1,Female,2025-04-20,Digestive Issues,Medication,Dr. Arun,2400,4,Recovered,No,Coimbatore
+VET0838,Dog,Golden Retriever,8,Female,2026-04-28,Skin Infection,Medication,Dr. Karthik,2000,8,Improving,Yes,Tiruppur
+VET0839,Cat,Persian,7,Male,2025-06-22,Injury,Surgery,Dr. Rahul,10100,7,Improving,Yes,Tiruppur
+VET0840,Dog,Pug,10,Male,2025-11-03,Fracture,Surgery,Dr. Rahul,16500,27,Recovered,Yes,Coimbatore
+VET0841,Goat,Black Bengal,16,Male,2025-02-07,Skin Infection,Medication,Dr. Arun,1600,6,Recovered,No,Coimbatore
+VET0842,Cow,Gir,20,Female,2026-04-26,Injury,Surgery,Dr. Karthik,10000,19,Recovered,Yes,Coimbatore
+VET0843,Cat,Siamese,15,Female,2026-04-26,Fracture,Surgery,Dr. Rahul,15600,28,Improving,Yes,Tiruppur
+VET0844,Dog,Labrador,15,Male,2025-01-29,Skin Infection,Medication,Dr. Priya,1900,9,Critical,Yes,Madurai
+VET0845,Dog,Labrador,12,Male,2025-06-07,Digestive Issues,Medication,Dr. Karthik,1300,8,Improving,Yes,Coimbatore
+VET0846,Bird,Budgerigar,8,Female,2025-09-12,Skin Infection,Medication,Dr. Karthik,1700,5,Critical,Yes,Coimbatore
+VET0847,Goat,Boer,7,Female,2026-08-28,Fever,Medication,Dr. Karthik,900,6,Recovered,No,Tiruppur
+VET0848,Bird,Budgerigar,3,Male,2025-05-02,Fever,Medication,Dr. Arun,1000,6,Recovered,No,Madurai
+VET0849,Cow,Gir,3,Male,2026-02-15,Ear Infection,Medication,Dr. Rahul,1200,7,Recovered,No,Chennai
+VET0850,Goat,Boer,12,Male,2026-05-29,Skin Infection,Medication,Dr. Karthik,3200,4,Follow-up Required,Yes,Coimbatore
+VET0851,Cat,Persian,9,Female,2026-04-11,Respiratory Infection,Medication,Dr. Arun,3600,7,Recovered,No,Coimbatore
+VET0852,Dog,Beagle,8,Male,2026-05-20,Fever,Medication,Dr. Meena,1300,5,Improving,Yes,Coimbatore
+VET0853,Cow,Gir,6,Male,2026-05-17,Fever,Medication,Dr. Meena,1200,6,Recovered,No,Chennai
+VET0854,Cat,Maine Coon,5,Female,2025-03-02,Digestive Issues,Medication,Dr. Karthik,1300,8,Recovered,No,Coimbatore
+VET0855,Dog,Pug,2,Female,2026-06-06,Skin Infection,Medication,Dr. Priya,2400,7,Recovered,No,Coimbatore
+VET0856,Cow,Sahiwal,5,Male,2026-08-30,Respiratory Infection,Medication,Dr. Karthik,2800,5,Critical,Yes,Chennai
+VET0857,Dog,Labrador,12,Male,2026-08-27,Vaccination,Vaccination,Dr. Arun,500,1,Recovered,No,Coimbatore
+VET0858,Goat,Malabari,15,Male,2025-01-21,Fever,Medication,Dr. Arun,1700,2,Recovered,No,Coimbatore
+VET0859,Dog,Golden Retriever,10,Female,2025-11-15,Digestive Issues,Medication,Dr. Priya,2300,3,Recovered,No,Coimbatore
+VET0860,Cat,Maine Coon,9,Female,2025-10-19,Skin Infection,Medication,Dr. Priya,2400,7,Recovered,No,Coimbatore
+VET0861,Dog,Pug,14,Male,2025-09-19,Injury,Surgery,Dr. Meena,9900,12,Referred,Yes,Coimbatore
+VET0862,Cow,Gir,11,Female,2025-11-28,Dental Problem,Dental Care,Dr. Priya,3400,2,Recovered,No,Coimbatore
+VET0863,Cat,Siamese,2,Female,2026-06-12,Ear Infection,Medication,Dr. Meena,2100,6,Recovered,No,Coimbatore
+VET0864,Cow,Sahiwal,16,Female,2026-02-11,Parasite Infection,Deworming,Dr. Arun,2000,5,Recovered,No,Coimbatore
+VET0865,Dog,Golden Retriever,13,Female,2025-11-03,Vaccination,Vaccination,Dr. Rahul,800,1,Recovered,No,Salem
+VET0866,Dog,Golden Retriever,9,Male,2026-02-15,Digestive Issues,Medication,Dr. Priya,1300,4,Recovered,No,Coimbatore
+VET0867,Bird,Cockatiel,8,Male,2026-01-02,Skin Infection,Medication,Dr. Karthik,2600,6,Recovered,No,Tiruppur
+VET0868,Goat,Malabari,2,Female,2026-08-05,Injury,Surgery,Dr. Rahul,5700,18,Improving,Yes,Chennai
+VET0869,Cat,Persian,15,Female,2025-02-23,Injury,Surgery,Dr. Priya,3900,5,Improving,Yes,Coimbatore
+VET0870,Dog,Beagle,1,Female,2026-07-17,Fracture,Surgery,Dr. Arun,17700,35,Recovered,No,Coimbatore
+VET0871,Dog,German Shepherd,1,Female,2026-08-06,Fever,Medication,Dr. Meena,1300,6,Recovered,No,Coimbatore
+VET0872,Cow,Holstein Friesian,17,Female,2026-04-09,Fever,Medication,Dr. Karthik,1500,6,Recovered,No,Madurai
+VET0873,Dog,Labrador,13,Female,2025-12-12,Vaccination,Vaccination,Dr. Meena,800,1,Recovered,Yes,Tiruppur
+VET0874,Rabbit,Dutch,1,Female,2025-10-09,Dental Problem,Dental Care,Dr. Priya,3100,4,Recovered,No,Tiruppur
+VET0875,Goat,Jamunapari,3,Male,2026-04-19,Skin Infection,Medication,Dr. Karthik,2200,4,Recovered,Yes,Chennai
+VET0876,Dog,Pug,13,Male,2025-09-13,Injury,Surgery,Dr. Rahul,8300,20,Recovered,No,Coimbatore
+VET0877,Dog,Golden Retriever,2,Female,2025-11-18,Respiratory Infection,Medication,Dr. Rahul,3100,10,Recovered,No,Chennai
+VET0878,Rabbit,Angora,2,Female,2025-09-01,Parasite Infection,Deworming,Dr. Arun,2100,1,Follow-up Required,Yes,Tiruppur
+VET0879,Cat,Indian Shorthair,15,Male,2026-07-24,Skin Infection,Medication,Dr. Priya,2100,10,Improving,Yes,Madurai
+VET0880,Dog,Labrador,6,Female,2025-11-30,Respiratory Infection,Medication,Dr. Meena,3500,11,Recovered,No,Salem
+VET0881,Cat,Persian,1,Female,2025-09-22,Digestive Issues,Medication,Dr. Karthik,2800,5,Recovered,No,Coimbatore
+VET0882,Rabbit,Lop,5,Female,2026-06-16,Skin Infection,Medication,Dr. Rahul,3000,7,Recovered,No,Salem
+VET0883,Goat,Boer,2,Female,2025-05-17,Ear Infection,Medication,Dr. Meena,1300,9,Recovered,Yes,Salem
+VET0884,Bird,Lovebird,3,Male,2026-01-14,Digestive Issues,Medication,Dr. Priya,2800,4,Recovered,No,Tiruppur
+VET0885,Dog,Labrador,12,Male,2025-12-13,Respiratory Infection,Medication,Dr. Rahul,3300,5,Recovered,No,Coimbatore
+VET0886,Goat,Malabari,4,Female,2025-12-25,Respiratory Infection,Medication,Dr. Rahul,3800,10,Recovered,No,Chennai
+VET0887,Cow,Gir,11,Male,2025-12-07,Fever,Medication,Dr. Meena,800,3,Improving,Yes,Coimbatore
+VET0888,Dog,German Shepherd,15,Female,2026-07-13,Vaccination,Vaccination,Dr. Karthik,600,1,Recovered,No,Salem
+VET0889,Cat,Persian,6,Male,2025-08-23,Fever,Medication,Dr. Arun,1300,6,Recovered,No,Salem
+VET0890,Dog,Beagle,5,Male,2026-04-27,Skin Infection,Medication,Dr. Arun,1800,9,Follow-up Required,Yes,Madurai
+VET0891,Dog,Labrador,15,Female,2026-04-11,Injury,Surgery,Dr. Karthik,4700,18,Recovered,No,Coimbatore
+VET0892,Dog,Pug,3,Male,2025-04-02,Fever,Medication,Dr. Rahul,1800,5,Improving,Yes,Chennai
+VET0893,Dog,Pug,3,Male,2026-01-06,Skin Infection,Medication,Dr. Rahul,3300,6,Recovered,No,Salem
+VET0894,Bird,Parrot,7,Male,2026-01-16,Digestive Issues,Medication,Dr. Rahul,2100,8,Recovered,No,Coimbatore
+VET0895,Cat,Maine Coon,3,Female,2026-07-01,Injury,Surgery,Dr. Meena,4200,15,Recovered,Yes,Coimbatore
+VET0896,Dog,Labrador,5,Female,2026-08-31,Skin Infection,Medication,Dr. Karthik,1500,10,Recovered,No,Madurai
+VET0897,Dog,Labrador,6,Male,2025-01-08,Skin Infection,Medication,Dr. Karthik,2900,7,Recovered,No,Madurai
+VET0898,Dog,Golden Retriever,9,Female,2025-08-22,Fever,Medication,Dr. Arun,1800,2,Recovered,No,Salem
+VET0899,Cow,Sahiwal,19,Male,2025-05-21,Ear Infection,Medication,Dr. Rahul,2600,4,Recovered,No,Tiruppur
+VET0900,Rabbit,Dutch,5,Female,2025-11-05,Dental Problem,Dental Care,Dr. Arun,2200,4,Recovered,No,Coimbatore
+VET0901,Dog,Beagle,8,Male,2026-08-28,Fever,Medication,Dr. Rahul,1500,2,Improving,Yes,Coimbatore
+VET0902,Dog,Labrador,4,Male,2025-12-13,Digestive Issues,Medication,Dr. Priya,1300,7,Recovered,No,Coimbatore
+VET0903,Goat,Malabari,1,Female,2025-03-09,Fracture,Surgery,Dr. Karthik,13400,35,Recovered,Yes,Chennai
+VET0904,Dog,Indian Spitz,6,Male,2025-07-06,Vaccination,Vaccination,Dr. Rahul,1400,1,Recovered,No,Tiruppur
+VET0905,Rabbit,New Zealand White,10,Male,2025-03-10,Respiratory Infection,Medication,Dr. Priya,3300,9,Follow-up Required,Yes,Coimbatore
+VET0906,Dog,Pug,14,Male,2026-04-14,Injury,Surgery,Dr. Karthik,4900,14,Recovered,No,Salem
+VET0907,Cow,Sahiwal,15,Male,2026-07-09,Vaccination,Vaccination,Dr. Rahul,900,1,Recovered,No,Coimbatore
+VET0908,Bird,Cockatiel,8,Female,2026-05-01,Fracture,Surgery,Dr. Meena,10800,25,Recovered,No,Salem
+VET0909,Goat,Boer,15,Male,2025-12-29,Skin Infection,Medication,Dr. Meena,1800,4,Recovered,No,Chennai
+VET0910,Dog,Beagle,13,Male,2025-11-05,Parasite Infection,Deworming,Dr. Karthik,700,1,Recovered,No,Coimbatore
+VET0911,Dog,Beagle,11,Male,2025-12-02,Fracture,Surgery,Dr. Priya,8500,18,Recovered,No,Coimbatore
+VET0912,Cow,Holstein Friesian,9,Female,2026-06-22,Ear Infection,Medication,Dr. Arun,1700,6,Recovered,Yes,Salem
+VET0913,Dog,German Shepherd,5,Male,2025-09-16,Respiratory Infection,Medication,Dr. Rahul,2500,8,Recovered,No,Salem
+VET0914,Cat,Indian Shorthair,1,Female,2025-03-06,Skin Infection,Medication,Dr. Priya,1800,10,Recovered,No,Tiruppur
+VET0915,Cat,Maine Coon,9,Female,2025-02-16,Fever,Medication,Dr. Karthik,1300,6,Recovered,No,Coimbatore
+VET0916,Bird,Lovebird,5,Male,2026-01-20,Respiratory Infection,Medication,Dr. Priya,1800,7,Recovered,No,Coimbatore
+VET0917,Cat,Indian Shorthair,10,Male,2025-10-02,Digestive Issues,Medication,Dr. Rahul,1400,4,Recovered,Yes,Coimbatore
+VET0918,Goat,Black Bengal,15,Male,2025-04-21,Vaccination,Vaccination,Dr. Meena,500,1,Recovered,No,Coimbatore
+VET0919,Cat,Siamese,7,Male,2026-07-26,Fever,Medication,Dr. Priya,1000,5,Recovered,No,Coimbatore
+VET0920,Cat,Siamese,4,Female,2026-04-19,Injury,Surgery,Dr. Karthik,9200,14,Critical,Yes,Tiruppur
+VET0921,Dog,Pug,8,Female,2026-06-06,Injury,Surgery,Dr. Karthik,9100,19,Recovered,Yes,Tiruppur
+VET0922,Dog,Beagle,3,Male,2025-02-24,Dental Problem,Dental Care,Dr. Karthik,6000,3,Recovered,Yes,Coimbatore
+VET0923,Dog,Pug,15,Male,2025-11-02,Vaccination,Vaccination,Dr. Rahul,500,1,Recovered,Yes,Madurai
+VET0924,Cat,Siamese,12,Female,2025-06-05,Ear Infection,Medication,Dr. Meena,2200,9,Recovered,No,Tiruppur
+VET0925,Dog,Labrador,10,Female,2025-04-12,Vaccination,Vaccination,Dr. Karthik,1400,1,Recovered,No,Tiruppur
+VET0926,Cow,Gir,2,Female,2025-03-01,Respiratory Infection,Medication,Dr. Arun,3000,12,Recovered,No,Coimbatore
+VET0927,Dog,Labrador,8,Male,2025-10-13,Parasite Infection,Deworming,Dr. Arun,1900,4,Improving,Yes,Madurai
+VET0928,Dog,German Shepherd,13,Male,2025-07-19,Fever,Medication,Dr. Meena,1300,5,Recovered,No,Chennai
+VET0929,Dog,Pug,12,Male,2026-06-19,Dental Problem,Dental Care,Dr. Meena,5800,3,Improving,Yes,Chennai
+VET0930,Dog,Golden Retriever,9,Male,2026-05-29,Injury,Surgery,Dr. Priya,9500,18,Improving,Yes,Coimbatore
+VET0931,Dog,Labrador,7,Male,2025-08-10,Digestive Issues,Medication,Dr. Priya,2700,8,Recovered,No,Chennai
+VET0932,Dog,Pug,14,Male,2025-02-16,Skin Infection,Medication,Dr. Meena,2700,10,Recovered,No,Chennai
+VET0933,Cow,Sahiwal,9,Female,2025-08-20,Vaccination,Vaccination,Dr. Meena,700,1,Recovered,No,Coimbatore
+VET0934,Cat,Maine Coon,7,Male,2026-02-23,Injury,Surgery,Dr. Arun,7500,9,Recovered,No,Chennai
+VET0935,Cat,Bengal,8,Female,2026-04-13,Digestive Issues,Medication,Dr. Karthik,2800,4,Recovered,No,Chennai
+VET0936,Dog,German Shepherd,8,Female,2025-01-20,Dental Problem,Dental Care,Dr. Rahul,4000,6,Recovered,Yes,Madurai
+VET0937,Dog,Indian Spitz,1,Male,2026-02-24,Digestive Issues,Medication,Dr. Priya,1200,5,Recovered,No,Coimbatore
+VET0938,Dog,Pug,1,Male,2026-03-11,Digestive Issues,Medication,Dr. Rahul,1500,5,Recovered,No,Coimbatore
+VET0939,Cat,Indian Shorthair,5,Male,2025-06-18,Parasite Infection,Deworming,Dr. Rahul,2300,5,Improving,Yes,Tiruppur
+VET0940,Dog,German Shepherd,10,Female,2025-09-11,Fever,Medication,Dr. Rahul,900,6,Recovered,No,Coimbatore
+VET0941,Cow,Sahiwal,8,Male,2026-06-15,Injury,Surgery,Dr. Karthik,11100,16,Recovered,No,Salem
+VET0942,Goat,Jamunapari,11,Female,2026-08-20,Parasite Infection,Deworming,Dr. Priya,1500,3,Recovered,No,Tiruppur
+VET0943,Dog,German Shepherd,11,Female,2026-07-25,Skin Infection,Medication,Dr. Rahul,2200,6,Improving,Yes,Salem
+VET0944,Rabbit,Dutch,10,Female,2026-01-25,Skin Infection,Medication,Dr. Meena,2100,4,Recovered,Yes,Coimbatore
+VET0945,Dog,Beagle,9,Male,2025-07-19,Skin Infection,Medication,Dr. Arun,2300,4,Recovered,No,Coimbatore
+VET0946,Dog,Beagle,3,Female,2025-03-19,Respiratory Infection,Medication,Dr. Priya,3100,12,Recovered,Yes,Madurai
+VET0947,Cow,Holstein Friesian,8,Female,2025-04-05,Parasite Infection,Deworming,Dr. Arun,1400,5,Improving,Yes,Madurai
+VET0948,Dog,Labrador,5,Male,2025-09-29,Skin Infection,Medication,Dr. Priya,3000,9,Improving,Yes,Chennai
+VET0949,Dog,Indian Spitz,12,Male,2025-04-13,Vaccination,Vaccination,Dr. Meena,1700,1,Recovered,No,Coimbatore
+VET0950,Rabbit,Angora,4,Female,2026-04-28,Digestive Issues,Medication,Dr. Rahul,1600,8,Improving,Yes,Tiruppur
+VET0951,Cow,Gir,20,Male,2026-04-09,Vaccination,Vaccination,Dr. Rahul,1300,1,Recovered,No,Tiruppur
+VET0952,Dog,Indian Spitz,2,Female,2026-05-17,Parasite Infection,Deworming,Dr. Arun,1400,3,Recovered,Yes,Salem
+VET0953,Goat,Boer,6,Female,2025-12-09,Respiratory Infection,Medication,Dr. Rahul,2300,9,Recovered,No,Chennai
+VET0954,Cat,Bengal,13,Male,2026-01-27,Ear Infection,Medication,Dr. Arun,2600,8,Improving,Yes,Salem
+VET0955,Cat,Bengal,14,Male,2026-08-31,Respiratory Infection,Medication,Dr. Karthik,2600,9,Recovered,No,Madurai
+VET0956,Cat,Bengal,12,Male,2025-06-17,Fever,Medication,Dr. Rahul,1100,5,Follow-up Required,Yes,Coimbatore
+VET0957,Dog,Labrador,2,Female,2025-01-17,Injury,Surgery,Dr. Rahul,10100,5,Recovered,Yes,Chennai
+VET0958,Dog,Indian Spitz,3,Male,2026-01-20,Injury,Surgery,Dr. Arun,7800,18,Recovered,Yes,Chennai
+VET0959,Dog,German Shepherd,3,Female,2025-03-28,Fever,Medication,Dr. Priya,1800,5,Recovered,No,Chennai
+VET0960,Dog,Pug,4,Female,2026-02-14,Skin Infection,Medication,Dr. Meena,2200,6,Improving,Yes,Chennai
+VET0961,Dog,Indian Spitz,13,Female,2026-06-06,Parasite Infection,Deworming,Dr. Priya,2400,5,Follow-up Required,Yes,Coimbatore
+VET0962,Cat,Siamese,12,Female,2025-01-26,Injury,Surgery,Dr. Karthik,7600,12,Improving,Yes,Coimbatore
+VET0963,Dog,Labrador,6,Male,2026-07-28,Digestive Issues,Medication,Dr. Rahul,2200,5,Referred,Yes,Salem
+VET0964,Cow,Sahiwal,7,Female,2026-05-17,Injury,Surgery,Dr. Priya,4600,16,Recovered,Yes,Coimbatore
+VET0965,Cat,Maine Coon,8,Male,2025-10-17,Injury,Surgery,Dr. Rahul,4700,11,Recovered,No,Coimbatore
+VET0966,Cat,Siamese,15,Female,2026-01-24,Respiratory Infection,Medication,Dr. Meena,2100,9,Improving,Yes,Coimbatore
+VET0967,Cat,Bengal,6,Female,2025-12-26,Skin Infection,Medication,Dr. Meena,2100,8,Critical,Yes,Tiruppur
+VET0968,Goat,Jamunapari,6,Female,2025-12-17,Digestive Issues,Medication,Dr. Arun,1200,4,Recovered,No,Salem
+VET0969,Cat,Persian,7,Female,2025-04-03,Respiratory Infection,Medication,Dr. Meena,4400,11,Recovered,No,Tiruppur
+VET0970,Rabbit,Angora,1,Male,2025-06-09,Fever,Medication,Dr. Karthik,1700,6,Improving,Yes,Madurai
+VET0971,Rabbit,Dutch,5,Female,2026-03-06,Fever,Medication,Dr. Arun,1100,3,Improving,Yes,Salem
+VET0972,Cat,Indian Shorthair,8,Female,2025-07-21,Digestive Issues,Medication,Dr. Priya,1900,4,Follow-up Required,Yes,Coimbatore
+VET0973,Cat,Persian,2,Female,2025-08-24,Skin Infection,Medication,Dr. Meena,1600,5,Improving,Yes,Coimbatore
+VET0974,Dog,German Shepherd,9,Male,2025-05-04,Fever,Medication,Dr. Priya,1600,3,Referred,Yes,Tiruppur
+VET0975,Dog,Labrador,13,Female,2026-04-10,Vaccination,Vaccination,Dr. Meena,800,1,Recovered,Yes,Coimbatore
+VET0976,Goat,Malabari,17,Male,2025-01-20,Parasite Infection,Deworming,Dr. Rahul,700,5,Recovered,No,Coimbatore
+VET0977,Cat,Persian,1,Female,2025-02-03,Skin Infection,Medication,Dr. Rahul,2100,9,Follow-up Required,Yes,Coimbatore
+VET0978,Bird,Parrot,4,Female,2026-06-06,Parasite Infection,Deworming,Dr. Karthik,2000,1,Improving,Yes,Salem
+VET0979,Cat,Maine Coon,10,Male,2025-05-23,Injury,Surgery,Dr. Karthik,8500,8,Recovered,No,Coimbatore
+VET0980,Dog,Golden Retriever,3,Male,2026-04-05,Ear Infection,Medication,Dr. Karthik,2100,8,Recovered,No,Madurai
+VET0981,Cat,Maine Coon,8,Female,2026-03-04,Vaccination,Vaccination,Dr. Meena,900,1,Recovered,No,Tiruppur
+VET0982,Rabbit,Angora,9,Male,2025-12-28,Injury,Surgery,Dr. Karthik,10600,8,Referred,Yes,Madurai
+VET0983,Dog,Indian Spitz,12,Male,2025-10-04,Ear Infection,Medication,Dr. Meena,2400,5,Recovered,No,Chennai
+VET0984,Rabbit,Angora,5,Male,2026-06-10,Fever,Medication,Dr. Meena,1700,4,Recovered,No,Coimbatore
+VET0985,Goat,Jamunapari,19,Male,2025-12-26,Fever,Medication,Dr. Arun,1100,6,Recovered,No,Coimbatore
+VET0986,Dog,Pug,10,Female,2025-02-19,Vaccination,Vaccination,Dr. Rahul,500,1,Recovered,No,Salem
+VET0987,Bird,Lovebird,4,Female,2025-12-15,Dental Problem,Dental Care,Dr. Arun,4500,7,Improving,Yes,Tiruppur
+VET0988,Goat,Boer,12,Female,2026-07-08,Ear Infection,Medication,Dr. Rahul,2400,7,Improving,Yes,Chennai
+VET0989,Cat,Indian Shorthair,6,Male,2025-03-10,Injury,Surgery,Dr. Arun,3800,10,Recovered,Yes,Coimbatore
+VET0990,Cat,Maine Coon,8,Male,2025-04-06,Digestive Issues,Medication,Dr. Karthik,2600,4,Recovered,No,Coimbatore
+VET0991,Dog,Golden Retriever,10,Female,2025-08-23,Dental Problem,Dental Care,Dr. Rahul,2900,2,Follow-up Required,Yes,Madurai
+VET0992,Dog,Indian Spitz,5,Female,2025-08-07,Injury,Surgery,Dr. Priya,10600,10,Improving,Yes,Coimbatore
+VET0993,Goat,Black Bengal,1,Male,2025-10-12,Digestive Issues,Medication,Dr. Meena,2800,3,Recovered,No,Tiruppur
+VET0994,Dog,Indian Spitz,8,Male,2026-03-19,Digestive Issues,Medication,Dr. Priya,1800,3,Improving,Yes,Coimbatore
+VET0995,Cat,Persian,6,Female,2025-02-20,Digestive Issues,Medication,Dr. Arun,1500,5,Recovered,No,Coimbatore
+VET0996,Cow,Jersey,12,Female,2025-01-25,Parasite Infection,Deworming,Dr. Karthik,1500,5,Recovered,No,Salem
+VET0997,Goat,Boer,16,Male,2025-06-17,Parasite Infection,Deworming,Dr. Priya,700,5,Improving,Yes,Chennai
+VET0998,Cat,Maine Coon,4,Male,2025-02-18,Fracture,Surgery,Dr. Priya,11200,23,Recovered,No,Coimbatore
+VET0999,Goat,Malabari,10,Female,2025-08-01,Fever,Medication,Dr. Arun,900,6,Improving,Yes,Madurai
+VET1000,Dog,Labrador,6,Male,2026-05-31,Respiratory Infection,Medication,Dr. Karthik,2900,11,Recovered,No,Salem
